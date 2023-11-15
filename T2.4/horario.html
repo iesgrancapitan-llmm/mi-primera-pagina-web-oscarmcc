@@ -3,20 +3,67 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
     <title>Horario de clase</title>
 </head>
 <body>
     <h1>Este es el horario de clase</h1>
-    <table>
+    <table border="" align="center">
         <tr>
-            <td>&nbsp;</td>
-            <td>Lunes</td>
-            <td>Martes</td>
-            <td>Miércoles</td>
-            <td>Jueves</td>
-            <td>Viernes</td>
+            <th class="table">&nbsp;</th>
+            <th class="table">Lunes</th>
+            <th class="table">Martes</th>
+            <th class="table">Miércoles</th>
+            <th class="table">Jueves</th>
+            <th class="table">Viernes</th>
         </tr>
-        
+        <tr>
+            <td class="table">8:15-9:15</td>
+            <td rowspan="2" class="SI">SI</td>
+            <td rowspan="2" class="LLMM">LLMM</td>
+            <td rowspan="2" class="EED">EED</td>
+            <td class="FOL">FOL</td>
+            <td rowspan="2" class="FOL">FOL</td>
+        </tr>
+        <tr>
+            <td class="table">9:15-10:15</td>
+            <!-- <td>SI</td>
+            <td>LLMM</td>
+            <td>EED</td> -->
+            <td rowspan="2" class="SI">SI</td>
+            <!-- <td>FOL</td> -->
+        </tr>
+        <tr>
+            <td class="table">10:15-11:15</td>
+            <td class="PROG">PROG</td>
+            <td class="SI">SI</td>
+            <td class="LLMM">LLMM</td>
+            <!-- <td>SI</td> -->
+            <td class="BD">BD</td>
+        </tr>
+        <tr>
+            <td class="table">11:15-11:45</td>
+            <td colspan="5" class="table">Recreo</td>
+        </tr>
+        <tr>
+            <td class="table">11:45-12:45</td>
+            <td class="PROG">PROG</td>
+            <td class="SI">SI</td>
+            <td class="LLMM">LLMM</td>
+            <td class="EED">EED</td>
+            <td class="BD">BD</td>
+        </tr>
+        <tr>
+            <td class="table">12:45-13:45</td>
+            <td rowspan="2" class="BD">BD</td>
+            <td rowspan="2" class="PROG">PROG</td>
+            <td rowspan="2" class="BD">BD</td>
+            <td rowspan="2" class="PROG">PROG</td>
+            <td rowspan="2" class="PROG">PROG</td>
+        </tr>
+        <tr>
+            <td class="table">13:45-14:45</td>
+        </tr>
     </table>
 </body>
 </html>

@@ -1,0 +1,29 @@
+.table{
+    background-color: rgb(255, 162, 0);
+    color: black;
+    text-align: center;
+}
+.SI{
+    background-color: skyblue;
+    text-align: center;
+}
+.PROG{
+    background-color: rgb(9, 181, 9);
+    text-align: center;
+}
+.LLMM{
+    background-color: yellow;
+    text-align: center;
+}
+.BD{
+    background-color: red;
+    text-align: center;
+}
+.EED{
+    background-color: rgb(209, 18, 209);
+    text-align: center;
+}
+.FOL{
+    background-color: blanchedalmond;
+    text-align: center;
+}
