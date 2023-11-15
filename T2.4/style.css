@@ -1,29 +1,31 @@
+/* Óscar Martín-CastañoCarrillo */
 .table{
-    background-color: rgb(255, 162, 0);
-    color: black;
-    text-align: center;
+    background-color: rgb(59, 8, 245);
+    color: rgb(243, 235, 235);
+    font-size: larger;
 }
 .SI{
     background-color: skyblue;
-    text-align: center;
 }
 .PROG{
-    background-color: rgb(9, 181, 9);
-    text-align: center;
+    background-color: rgb(6, 142, 6);
 }
 .LLMM{
     background-color: yellow;
-    text-align: center;
 }
 .BD{
     background-color: red;
-    text-align: center;
 }
 .EED{
     background-color: rgb(209, 18, 209);
-    text-align: center;
 }
 .FOL{
-    background-color: blanchedalmond;
+    background-color: rgb(241, 145, 0);
+}
+body{
     text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+table{
+    border-color: rgb(47, 255, 0);
 }
