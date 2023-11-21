@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="oscar">
+    <title>Formulario</title>
+</head>
+<body>
+    <form action="">
+        <p><label >Nombre de usuario:<input type="text" id="nombre"></label></p>
+        <p><label >Apellidos<input type="text" id="apellidos"></label></p>
+        <p><label >Calle<input type="text" id="calle"></label></p>
+
+        <label>CSS<input type="checkbox" id="CSS" checked value="CSS"></label>
+        <label>HTML<input type="checkbox" id="HTML" value="HTML"></label>
+
+        <p>
+            <label >CSS:
+                <input type="radio" name="llmm" id="CSS">
+            </label>
+            <label >HTML:
+                <input type="radio" name="llmm" id="HTML">
+            </label>
+        </p>
+        <p>
+            <label >Fecha
+                <input type="date" name="fecha" id="fecha">
+            </label>
+        </p>
+        <p>
+            <label >Módulos
+                <select multiple>
+                    <option value="LLMM">LLMM</option>
+                    <option value="BD">Base de Datos</option>
+                    <option value="EED">Entornos de desarrollo</option>
+                    <option value="PROG">PROG</option>
+                </select>
+            </label>
+        </p>
+        <p>
+            <label ><input type="submit" value="enviar"></label>
+            <label ><input type="reset" value="borrar"></label>
+        </p>
+    </form>
+</body>
+</html>
