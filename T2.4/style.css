@@ -4,22 +4,22 @@
     color: rgb(243, 235, 235);
     font-size: larger;
 }
-.SI{
+.si{
     background-color: skyblue;
 }
-.PROG{
+.prog{
     background-color: rgb(6, 142, 6);
 }
-.LLMM{
+.llmm{
     background-color: yellow;
 }
-.BD{
+.bd{
     background-color: red;
 }
-.EED{
+.eed{
     background-color: rgb(209, 18, 209);
 }
-.FOL{
+.fol{
     background-color: rgb(241, 145, 0);
 }
 body{
@@ -27,5 +27,8 @@ body{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 table{
-    border-color: rgb(47, 255, 0);
+    border: rgb(47, 255, 0) 7px solid;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
