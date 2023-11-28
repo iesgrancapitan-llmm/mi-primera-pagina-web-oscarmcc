@@ -6,12 +6,46 @@
     <title>Formulario</title>
 </head>
 <body>
-    <form action="">
+    <form action="" method="get">
         <p>
             <label>Nombre: <input type="text" name="name_control" id="nombre" autofocus required /></label>
         </p>
         <p>
             <label>Correo electrónico: <input type="email" name="email_control" required /></label>
+        </p>
+        <p>
+            <label>URL:<input type="url" name="url_control" placeholder="Escribe la URL de tu página web personal" /></label>
+        </p>
+        <p>
+            <label ><input type="submit" value="enviar"></label>
+            <label ><input type="reset" value="borrar"></label>
+        </p>
+        <p>
+            <label>Fecha: <input type="date" name="date_control" /></label>
+        </p>
+        <p>
+            <label>Tiempo: <input type="time" name="time_control" /></label>
+        </p>
+        <p>
+            <label>Fecha y hora: <input type="datetime" name="datetime_control" /></label>
+        </p>
+        <p>
+            <label>Mes: <input type="month" name="month_control" /></label>
+        </p>
+        <p>
+            <label>Semana: <input type="week" name="week_control" /></label>
+        </p>
+        <p>
+            <label>Número (min -10, max 10): <input type="number" name="number_control" min="-10" max="10" value="0" /></label>
+        </p>
+        <p>
+            <label>Teléfono: <input type="tel" name="tel_control" /></label>
+        </p>
+        <p>
+            <label>Término de búsqueda: <input type="search" name="search_control" /></label>
+        </p>
+        <p>
+            <label> favorito: <input type="color" name="color_control" /></label>
         </p>
         <p>
             <label ><input type="submit" value="enviar"></label>

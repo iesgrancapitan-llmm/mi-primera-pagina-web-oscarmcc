@@ -6,9 +6,9 @@
     <title>Formulario</title>
 </head>
 <body>
-    <form action="">
-        <p><label >Nombre de usuario:<input type="text" id="nombre"></label></p>
-        <p><label >Apellidos<input type="text" id="apellidos"></label></p>
+    <form action="" method="get">
+        <p><label >Nombre de usuario:<input type="text" id="nombre" maxlength="50"></label></p>
+        <p><label >Apellidos<input type="text" id="apellidos" maxlength="50"></label></p>
         <p><label >Calle<input type="text" id="calle"></label></p>
 
         <p>Sexo:
@@ -26,11 +26,11 @@
         </p>
         <p>
             <label>Correo:
-                <input type="text" id="correo">
+                <input type="text" id="correo" maxlength="100">
             </label>
         </p>
         <p>
-            <label><input type="checkbox" id="información" value="Si">Deseo recibir información sobre novedades y ofertas</label>
+            <label><input type="checkbox" id="información" value="Si" checked>Deseo recibir información sobre novedades y ofertas</label>
         </p>
         <p>
             <label><input type="checkbox" id="información" value="Si">Declaro haber leido y aceptar las condiciones generales del programa y la normativa sobre protección de datos</label>
