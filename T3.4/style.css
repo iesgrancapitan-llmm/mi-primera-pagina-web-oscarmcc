@@ -12,11 +12,11 @@ body {
     "main    main    main     aside   aside"
     "footer  footer   footer  footer  footer";
   grid-template-columns: 20% 20% 20% 20% 20%;
-  grid-template-rows: 20% 20% 20% 20% 20%;;
+  grid-template-rows: 20% 20% 20% 20% 20%;
   min-height: 100vh;
 }
 
-.header {
+#header {
   grid-area: header;
   text-align: center;
   background-color: #3498db;
@@ -24,32 +24,36 @@ body {
   padding: 20px;
 }
 
-.nav {
+#nav {
   grid-area: nav;
-  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   background-color: #ffffff;
   padding: 10px;
 }
 
-.main {
+#main {
   grid-area: main;
-  grid-column: span 3/4;
-  grid-row: span 3/5;
+  grid-column: span 2/3;
+  grid-row: span 2/5;
   background-color: aqua;
   padding: 20px;
 }
 
-.aside {
+#aside {
   grid-area: aside;
-  grid-column: span 2/6;
-  grid-row: span 3/5;
+  grid-column: span 3/6;
+  grid-row: span 2/5;
   background-color: #e74c3c;
   padding: 20px;
 }
 
-.footer {
+#footer {
   grid-area: footer;
-  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   background-color: #2ecc71;
   padding: 20px;
 }
