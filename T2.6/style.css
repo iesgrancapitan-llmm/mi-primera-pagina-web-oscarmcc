@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: red;
+    text-align: center;
+}
+dt {
+    color: rgb(26, 255, 0);
+    background-color: blue;
+    text-align: center;
+}
+dd {
+    color: rgb(30, 0, 255);
+    background-color: rgb(45, 246, 18);
+}
