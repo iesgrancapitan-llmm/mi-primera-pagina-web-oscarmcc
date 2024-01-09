@@ -1,0 +1,23 @@
+.container {
+    display: grid;
+    grid-template-areas: 
+    "blank      day     day     day     day     day"
+    "hour       SI      LLMM    EED     FOL     FOl"
+    "hour       SI      LLMM    EED     SI      FOL"
+    "hour       PROG    SI      LLMM    SI      BD"
+    "hour       snap    snap    snap    snap    snap"
+    "hour       PROG    SI      LLMM    EED     BD"
+    "hour       BD      PROG    BD      PROG    PROG"
+    "hour       BD      PROG    BD      PROG    PROG";
+    grid-gap: 5px;
+    padding: 10px;
+}
+#hour {
+    grid-area: hour;
+}
+#blank {
+    grid-area: blank;
+}
+#snap {
+    grid-area: snap;
+}
