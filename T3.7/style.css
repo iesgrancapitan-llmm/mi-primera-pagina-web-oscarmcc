@@ -1,23 +1,146 @@
-.container {
+main {
     display: grid;
     grid-template-areas: 
-    "blank      day     day     day     day     day"
-    "hour       SI      LLMM    EED     FOL     FOl"
-    "hour       SI      LLMM    EED     SI      FOL"
-    "hour       PROG    SI      LLMM    SI      BD"
-    "hour       snap    snap    snap    snap    snap"
-    "hour       PROG    SI      LLMM    EED     BD"
-    "hour       BD      PROG    BD      PROG    PROG"
-    "hour       BD      PROG    BD      PROG    PROG";
-    grid-gap: 5px;
-    padding: 10px;
+    "header     header  header  header  header  header"
+    "...        day1    day2    day3    day4    day5"
+    "hour1      si-l    llmm-m  eed-x   fol-j   fol-v"
+    "hour2      si-l    llmm-m  eed-x   si-j    fol-v"
+    "hour3      prog-l1 si-m1   llmm-x1 si-j    bd-v1"
+    "hour7      recreo  recreo  recreo  recreo  recreo"
+    "hour4      prog-l2 si-m2   llmm-x2 eed-j   bd-v2"
+    "hour5      bd-l    prog-m  bd-x    prog-jv prog-jv"
+    "hour6      bd-l    prog-m  bd-x    prog-jv prog-jv";
+    text-align: center;
+    justify-content: center;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
-#hour {
-    grid-area: hour;
+
+.header {
+    grid-area: header;
+    text-align: center;
 }
-#blank {
-    grid-area: blank;
+
+.hour1 {
+    grid-area: hour1;
 }
-#snap {
-    grid-area: snap;
+.hour2 {
+    grid-area: hour2;
+}
+.hour3 {
+    grid-area: hour3;
+}
+.hour7 {
+    grid-area: hour7;
+}
+.hour4 {
+    grid-area: hour4;
+}
+.hour5 {
+    grid-area: hour5;
+}
+.hour6 {
+    grid-area: hour6;
+}
+.recreo {
+    grid-area: recreo;
+    color: rgb(243, 235, 235);
+}
+.si-l {
+    grid-area: si-l;
+}
+.prog-l1 {
+    grid-area: prog-l1;
+}
+.prog-l2 {
+    grid-area: prog-l2;
+}
+.bd-l{
+    grid-area: bd-l;
+}
+.llmm-m {
+    grid-area: llmm-m;
+}
+.si-m1 {
+    grid-area: si-m1;
+}
+.si-m2 {
+    grid-area: si-m2;
+}
+.eed-x {
+    grid-area: eed-x;
+}
+.llmm-x1 {
+    grid-area: llmm-x1;
+}
+.llmm-x2 {
+    grid-area: llmm-x2;
+}
+.bd-x {
+    grid-area: bd-x;
+}
+.fol-j{
+    grid-area: fol-j;
+}
+.si-j {
+    grid-area: si-j;
+}
+.eed-j {
+    grid-area: eed-j;
+}
+.prog-jv {
+    grid-area: prog-jv;
+}
+.fol-v {
+    grid-area: fol-v;
+}
+.prog-m {
+    grid-area: prog-m;
+}
+div {
+    border: solid;
+    border-color: rgb(39, 255, 39);
+    background-color: rgb(22, 22, 248);
+}
+.si {
+    background-color: skyblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.prog {
+    background-color: green;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.bd {
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.llmm {
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.eed {
+    background-color: purple;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fol {
+    background-color: rgb(241, 145, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dias {
+    color: rgb(243, 235, 235);
+}
+.hours {
+    color: rgb(243, 235, 235);
 }
