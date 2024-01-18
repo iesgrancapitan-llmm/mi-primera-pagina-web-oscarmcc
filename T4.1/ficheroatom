@@ -1,0 +1,1251 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>https://www.aemet.es/es/eltiempo/prediccion/avisos</id>
+<title>AEMET - Avisos de fenómenos meteorológicos adversos - España</title>
+<subtitle>Avisos de fenómenos meteorológicos adversos según el Plan Meteoalerta de la Agencia Estatal de Meteorología (AEMET) para España.</subtitle>
+<link href="https://www.aemet.es/es/eltiempo/prediccion/avisos"/>
+<author>
+<name>Agencia Estatal de Meteorología. AEMET</name>
+</author>
+<rights>https://www.aemet.es/es/nota_legal</rights>
+<updated>2024-01-18T10:41:13+00:00</updated>
+<logo>https://www.aemet.es/imagenes/gif/logo_AEMET_web.gif</logo>
+<entry>
+<title>Estado completo de avisos para España</title>
+<summary>Fichero tar.gz que contiene todos los avisos para Península, Illes Balears, Ceuta y Melilla de 11:41 18-01-2024 CET (UTC+1) a 23:59 20-01-2024 CET (UTC+1), y para Canarias de 10:41 18-01-2024 WET (UTC) a 23:59 20-01-2024 WET (UTC).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118104113_AFAE.tar.gz"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118104113_AFAE.tar.gz</id>
+<updated>2024-01-18T10:41:13+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Vientos. Poniente y Almería Capital</title>
+<summary>Aviso de rachas máximas de nivel amarillo de 12:00 19-01-2024 CET (UTC+1) a 23:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118104113_AFAZ610403VIRM1923.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118104113_AFAZ610403VIRM1923.xml</id>
+<updated>2024-01-18T10:41:13+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Vientos. Levante almeriense</title>
+<summary>Aviso de rachas máximas de nivel amarillo de 12:00 19-01-2024 CET (UTC+1) a 23:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118104113_AFAZ610404VIRM1923.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118104113_AFAZ610404VIRM1923.xml</id>
+<updated>2024-01-18T10:41:13+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Tormentas. Ronda</title>
+<summary>Aviso de tormentas de nivel amarillo de 06:00 19-01-2024 CET (UTC+1) a 14:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103748_AFAZ612902TOTO1914.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103748_AFAZ612902TOTO1914.xml</id>
+<updated>2024-01-18T10:37:48+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Lluvias. Costa granadina</title>
+<summary>Aviso de precipitación acumulada en una hora de nivel amarillo de 09:00 19-01-2024 CET (UTC+1) a 17:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103748_AFAZ611804PRP11917.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103748_AFAZ611804PRP11917.xml</id>
+<updated>2024-01-18T10:37:48+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Lluvias. Axarquía</title>
+<summary>Aviso de precipitación acumulada en una hora de nivel amarillo de 09:00 19-01-2024 CET (UTC+1) a 17:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103748_AFAZ612904PRP11917.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103748_AFAZ612904PRP11917.xml</id>
+<updated>2024-01-18T10:37:48+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel naranja. Temperaturas mínimas. Ibérica zaragozana</title>
+<summary>Aviso de temperatura mínima de nivel naranja de 00:00 20-01-2024 CET (UTC+1) a 09:59 20-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ625002BTTI2009.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ625002BTTI2009.xml</id>
+<updated>2024-01-18T10:34:34+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel naranja. Temperaturas mínimas. Ibérica de Soria</title>
+<summary>Aviso de temperatura mínima de nivel naranja de 00:00 20-01-2024 CET (UTC+1) a 09:59 20-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ674201BTTI2009.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ674201BTTI2009.xml</id>
+<updated>2024-01-18T10:34:34+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel naranja. Temperaturas mínimas. Meseta de Soria</title>
+<summary>Aviso de temperatura mínima de nivel naranja de 00:00 20-01-2024 CET (UTC+1) a 09:59 20-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ674202BTTI2009.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ674202BTTI2009.xml</id>
+<updated>2024-01-18T10:34:34+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel naranja. Temperaturas mínimas. Sistema Central de Soria</title>
+<summary>Aviso de temperatura mínima de nivel naranja de 00:00 20-01-2024 CET (UTC+1) a 09:59 20-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ674203BTTI2009.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ674203BTTI2009.xml</id>
+<updated>2024-01-18T10:34:34+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Vientos. Ibiza y Formentera</title>
+<summary>Aviso de rachas máximas de nivel amarillo de 00:00 20-01-2024 CET (UTC+1) a 07:59 20-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ645301VIRM2007.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ645301VIRM2007.xml</id>
+<updated>2024-01-18T10:34:34+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Vientos. Sierra Tramontana</title>
+<summary>Aviso de rachas máximas de nivel amarillo de 00:00 20-01-2024 CET (UTC+1) a 09:59 20-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ645401VIRM2009.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ645401VIRM2009.xml</id>
+<updated>2024-01-18T10:34:34+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Vientos. Norte y nordeste de Mallorca</title>
+<summary>Aviso de rachas máximas de nivel amarillo de 00:00 20-01-2024 CET (UTC+1) a 09:59 20-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ645402VIRM2009.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ645402VIRM2009.xml</id>
+<updated>2024-01-18T10:34:34+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Vientos. Interior de Mallorca</title>
+<summary>Aviso de rachas máximas de nivel amarillo de 00:00 20-01-2024 CET (UTC+1) a 09:59 20-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ645403VIRM2009.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ645403VIRM2009.xml</id>
+<updated>2024-01-18T10:34:34+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Vientos. Sur de Mallorca</title>
+<summary>Aviso de rachas máximas de nivel amarillo de 00:00 20-01-2024 CET (UTC+1) a 09:59 20-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ645404VIRM2009.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ645404VIRM2009.xml</id>
+<updated>2024-01-18T10:34:34+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Vientos. Levante mallorquín</title>
+<summary>Aviso de rachas máximas de nivel amarillo de 00:00 20-01-2024 CET (UTC+1) a 09:59 20-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ645405VIRM2009.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ645405VIRM2009.xml</id>
+<updated>2024-01-18T10:34:34+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Temperaturas mínimas. Pirineo oscense</title>
+<summary>Aviso de temperatura mínima de nivel amarillo de 00:00 20-01-2024 CET (UTC+1) a 09:59 20-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ622201BTTI2009.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ622201BTTI2009.xml</id>
+<updated>2024-01-18T10:34:34+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Temperaturas mínimas. Cinco Villas de Zaragoza</title>
+<summary>Aviso de temperatura mínima de nivel amarillo de 00:00 20-01-2024 CET (UTC+1) a 09:59 20-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ625001BTTI2009.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ625001BTTI2009.xml</id>
+<updated>2024-01-18T10:34:34+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Temperaturas mínimas. Cantabria del Ebro</title>
+<summary>Aviso de temperatura mínima de nivel amarillo de 00:00 20-01-2024 CET (UTC+1) a 09:59 20-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ663904BTTI2009.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ663904BTTI2009.xml</id>
+<updated>2024-01-18T10:34:34+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Temperaturas mínimas. Meseta de Ávila</title>
+<summary>Aviso de temperatura mínima de nivel amarillo de 00:00 20-01-2024 CET (UTC+1) a 09:59 20-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ670501BTTI2009.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ670501BTTI2009.xml</id>
+<updated>2024-01-18T10:34:34+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Temperaturas mínimas. Sistema Central de Ávila</title>
+<summary>Aviso de temperatura mínima de nivel amarillo de 00:00 20-01-2024 CET (UTC+1) a 09:59 20-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ670502BTTI2009.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ670502BTTI2009.xml</id>
+<updated>2024-01-18T10:34:34+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Temperaturas mínimas. Cordillera Cantábrica de Burgos</title>
+<summary>Aviso de temperatura mínima de nivel amarillo de 00:00 20-01-2024 CET (UTC+1) a 09:59 20-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ670901BTTI2009.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ670901BTTI2009.xml</id>
+<updated>2024-01-18T10:34:34+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Temperaturas mínimas. Meseta de Burgos</title>
+<summary>Aviso de temperatura mínima de nivel amarillo de 00:00 20-01-2024 CET (UTC+1) a 09:59 20-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ670904BTTI2009.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ670904BTTI2009.xml</id>
+<updated>2024-01-18T10:34:34+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Temperaturas mínimas. Ibérica de Burgos</title>
+<summary>Aviso de temperatura mínima de nivel amarillo de 00:00 20-01-2024 CET (UTC+1) a 09:59 20-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ670905BTTI2009.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ670905BTTI2009.xml</id>
+<updated>2024-01-18T10:34:34+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Temperaturas mínimas. Cordillera Cantábrica de León</title>
+<summary>Aviso de temperatura mínima de nivel amarillo de 00:00 20-01-2024 CET (UTC+1) a 09:59 20-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ672401BTTI2009.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ672401BTTI2009.xml</id>
+<updated>2024-01-18T10:34:34+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Temperaturas mínimas. Meseta de León</title>
+<summary>Aviso de temperatura mínima de nivel amarillo de 00:00 20-01-2024 CET (UTC+1) a 09:59 20-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ672403BTTI2009.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ672403BTTI2009.xml</id>
+<updated>2024-01-18T10:34:34+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Temperaturas mínimas. Cordillera Cantábrica de Palencia</title>
+<summary>Aviso de temperatura mínima de nivel amarillo de 00:00 20-01-2024 CET (UTC+1) a 09:59 20-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ673401BTTI2009.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ673401BTTI2009.xml</id>
+<updated>2024-01-18T10:34:34+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Temperaturas mínimas. Meseta de Palencia</title>
+<summary>Aviso de temperatura mínima de nivel amarillo de 00:00 20-01-2024 CET (UTC+1) a 09:59 20-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ673402BTTI2009.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ673402BTTI2009.xml</id>
+<updated>2024-01-18T10:34:34+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Temperaturas mínimas. Sistema Central de Salamanca</title>
+<summary>Aviso de temperatura mínima de nivel amarillo de 00:00 20-01-2024 CET (UTC+1) a 09:59 20-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ673702BTTI2009.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ673702BTTI2009.xml</id>
+<updated>2024-01-18T10:34:34+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Temperaturas mínimas. Meseta de Segovia</title>
+<summary>Aviso de temperatura mínima de nivel amarillo de 00:00 20-01-2024 CET (UTC+1) a 09:59 20-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ674001BTTI2009.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ674001BTTI2009.xml</id>
+<updated>2024-01-18T10:34:34+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Temperaturas mínimas. Sistema Central de Segovia</title>
+<summary>Aviso de temperatura mínima de nivel amarillo de 00:00 20-01-2024 CET (UTC+1) a 09:59 20-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ674002BTTI2009.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ674002BTTI2009.xml</id>
+<updated>2024-01-18T10:34:34+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Temperaturas mínimas. Serranía de Guadalajara</title>
+<summary>Aviso de temperatura mínima de nivel amarillo de 00:00 20-01-2024 CET (UTC+1) a 09:59 20-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ681901BTTI2009.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ681901BTTI2009.xml</id>
+<updated>2024-01-18T10:34:34+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Temperaturas mínimas. Parameras de Molina</title>
+<summary>Aviso de temperatura mínima de nivel amarillo de 00:00 20-01-2024 CET (UTC+1) a 09:59 20-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ681902BTTI2009.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ681902BTTI2009.xml</id>
+<updated>2024-01-18T10:34:34+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Temperaturas mínimas. Pirineo de Girona</title>
+<summary>Aviso de temperatura mínima de nivel amarillo de 00:00 20-01-2024 CET (UTC+1) a 09:59 20-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ691701BTTI2009.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ691701BTTI2009.xml</id>
+<updated>2024-01-18T10:34:34+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Temperaturas mínimas. Valle de Arán</title>
+<summary>Aviso de temperatura mínima de nivel amarillo de 00:00 20-01-2024 CET (UTC+1) a 09:59 20-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ692501BTTI2009.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ692501BTTI2009.xml</id>
+<updated>2024-01-18T10:34:34+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Temperaturas mínimas. Pirineo de Lleida</title>
+<summary>Aviso de temperatura mínima de nivel amarillo de 00:00 20-01-2024 CET (UTC+1) a 09:59 20-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ692502BTTI2009.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ692502BTTI2009.xml</id>
+<updated>2024-01-18T10:34:34+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Temperaturas mínimas. Noroeste de A Coruña</title>
+<summary>Aviso de temperatura mínima de nivel amarillo de 00:00 20-01-2024 CET (UTC+1) a 09:59 20-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ711501BTTI2009.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ711501BTTI2009.xml</id>
+<updated>2024-01-18T10:34:34+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Temperaturas mínimas. Oeste de A Coruña</title>
+<summary>Aviso de temperatura mínima de nivel amarillo de 00:00 20-01-2024 CET (UTC+1) a 09:59 20-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ711502BTTI2009.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ711502BTTI2009.xml</id>
+<updated>2024-01-18T10:34:34+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Temperaturas mínimas. Suroeste de A Coruña</title>
+<summary>Aviso de temperatura mínima de nivel amarillo de 00:00 20-01-2024 CET (UTC+1) a 09:59 20-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ711504BTTI2009.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ711504BTTI2009.xml</id>
+<updated>2024-01-18T10:34:34+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Temperaturas mínimas. Vertiente cantábrica de Navarra</title>
+<summary>Aviso de temperatura mínima de nivel amarillo de 00:00 20-01-2024 CET (UTC+1) a 09:59 20-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ743101BTTI2009.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ743101BTTI2009.xml</id>
+<updated>2024-01-18T10:34:34+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Temperaturas mínimas. Centro de Navarra</title>
+<summary>Aviso de temperatura mínima de nivel amarillo de 00:00 20-01-2024 CET (UTC+1) a 09:59 20-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ743102BTTI2009.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ743102BTTI2009.xml</id>
+<updated>2024-01-18T10:34:34+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Temperaturas mínimas. Pirineo navarro</title>
+<summary>Aviso de temperatura mínima de nivel amarillo de 00:00 20-01-2024 CET (UTC+1) a 09:59 20-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ743103BTTI2009.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ743103BTTI2009.xml</id>
+<updated>2024-01-18T10:34:34+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Temperaturas mínimas. Ibérica riojana</title>
+<summary>Aviso de temperatura mínima de nivel amarillo de 00:00 20-01-2024 CET (UTC+1) a 09:59 20-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ762602BTTI2009.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ762602BTTI2009.xml</id>
+<updated>2024-01-18T10:34:34+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Poniente y Almería Capital</title>
+<summary>Aviso de costeros de nivel amarillo de 00:00 20-01-2024 CET (UTC+1) a 03:59 20-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ610403COCO2003.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ610403COCO2003.xml</id>
+<updated>2024-01-18T10:34:34+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Costa granadina</title>
+<summary>Aviso de costeros de nivel amarillo de 00:00 20-01-2024 CET (UTC+1) a 03:59 20-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ611804COCO2003.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ611804COCO2003.xml</id>
+<updated>2024-01-18T10:34:34+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Ibiza y Formentera</title>
+<summary>Aviso de costeros de nivel amarillo de 00:00 20-01-2024 CET (UTC+1) a 09:59 20-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ645301COCO2009.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ645301COCO2009.xml</id>
+<updated>2024-01-18T10:34:34+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Sierra Tramontana</title>
+<summary>Aviso de costeros de nivel amarillo de 00:00 20-01-2024 CET (UTC+1) a 14:59 20-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ645401COCO2014.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ645401COCO2014.xml</id>
+<updated>2024-01-18T10:34:34+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Norte y nordeste de Mallorca</title>
+<summary>Aviso de costeros de nivel amarillo de 00:00 20-01-2024 CET (UTC+1) a 14:59 20-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ645402COCO2014.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ645402COCO2014.xml</id>
+<updated>2024-01-18T10:34:34+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Sur de Mallorca</title>
+<summary>Aviso de costeros de nivel amarillo de 00:00 20-01-2024 CET (UTC+1) a 09:59 20-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ645404COCO2009.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ645404COCO2009.xml</id>
+<updated>2024-01-18T10:34:34+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Levante mallorquín</title>
+<summary>Aviso de costeros de nivel amarillo de 00:00 20-01-2024 CET (UTC+1) a 14:59 20-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ645405COCO2014.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ645405COCO2014.xml</id>
+<updated>2024-01-18T10:34:34+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Menorca</title>
+<summary>Aviso de costeros de nivel amarillo de 00:00 20-01-2024 CET (UTC+1) a 19:59 20-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ645501COCO2019.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ645501COCO2019.xml</id>
+<updated>2024-01-18T10:34:34+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Ampurdán</title>
+<summary>Aviso de costeros de nivel amarillo de 00:00 20-01-2024 CET (UTC+1) a 08:59 20-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ691703COCO2008.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ691703COCO2008.xml</id>
+<updated>2024-01-18T10:34:34+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Litoral sur de Girona</title>
+<summary>Aviso de costeros de nivel amarillo de 00:00 20-01-2024 CET (UTC+1) a 08:59 20-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ691704COCO2008.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ691704COCO2008.xml</id>
+<updated>2024-01-18T10:34:34+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Litoral norte de Alicante</title>
+<summary>Aviso de costeros de nivel amarillo de 00:00 20-01-2024 CET (UTC+1) a 03:59 20-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ770301COCO2003.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ770301COCO2003.xml</id>
+<updated>2024-01-18T10:34:34+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Litoral sur de Alicante</title>
+<summary>Aviso de costeros de nivel amarillo de 00:00 20-01-2024 CET (UTC+1) a 03:59 20-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ770303COCO2003.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ770303COCO2003.xml</id>
+<updated>2024-01-18T10:34:34+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Melilla</title>
+<summary>Aviso de costeros de nivel amarillo de 00:00 20-01-2024 CET (UTC+1) a 05:59 20-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ795201COCO2005.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103434_AFAZ795201COCO2005.xml</id>
+<updated>2024-01-18T10:34:34+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. La Gomera</title>
+<summary>Aviso de costeros de nivel amarillo de 03:00 19-01-2024 WET (UTC) a 11:59 19-01-2024 WET (UTC).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103309_AFAZ659401COCO1912.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103309_AFAZ659401COCO1912.xml</id>
+<updated>2024-01-18T10:33:09+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Este, sur y oeste de Tenerife</title>
+<summary>Aviso de costeros de nivel amarillo de 03:00 19-01-2024 WET (UTC) a 11:59 19-01-2024 WET (UTC).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103309_AFAZ659603COCO1912.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103309_AFAZ659603COCO1912.xml</id>
+<updated>2024-01-18T10:33:09+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Lluvias. Grazalema</title>
+<summary>Aviso de precipitación acumulada en una hora de nivel amarillo de 00:00 19-01-2024 CET (UTC+1) a 14:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103222_AFAZ611101PRP11914.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103222_AFAZ611101PRP11914.xml</id>
+<updated>2024-01-18T10:32:22+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Lluvias. Campiña gaditana</title>
+<summary>Aviso de precipitación acumulada en una hora de nivel amarillo de 00:00 19-01-2024 CET (UTC+1) a 14:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103222_AFAZ611102PRP11914.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103222_AFAZ611102PRP11914.xml</id>
+<updated>2024-01-18T10:32:22+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Lluvias. Litoral gaditano</title>
+<summary>Aviso de precipitación acumulada en una hora de nivel amarillo de 00:00 19-01-2024 CET (UTC+1) a 14:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103222_AFAZ611103PRP11914.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103222_AFAZ611103PRP11914.xml</id>
+<updated>2024-01-18T10:32:22+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Lluvias. Estrecho</title>
+<summary>Aviso de precipitación acumulada en una hora de nivel amarillo de 00:00 19-01-2024 CET (UTC+1) a 14:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103222_AFAZ611104PRP11914.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103222_AFAZ611104PRP11914.xml</id>
+<updated>2024-01-18T10:32:22+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Lluvias. Aracena</title>
+<summary>Aviso de precipitación acumulada en una hora de nivel amarillo de 00:00 19-01-2024 CET (UTC+1) a 11:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103222_AFAZ612101PRP11911.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103222_AFAZ612101PRP11911.xml</id>
+<updated>2024-01-18T10:32:22+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Lluvias. Andévalo y Condado</title>
+<summary>Aviso de precipitación acumulada en una hora de nivel amarillo de 00:00 19-01-2024 CET (UTC+1) a 11:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103222_AFAZ612102PRP11911.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103222_AFAZ612102PRP11911.xml</id>
+<updated>2024-01-18T10:32:22+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Lluvias. Litoral de Huelva</title>
+<summary>Aviso de precipitación acumulada en una hora de nivel amarillo de 00:00 19-01-2024 CET (UTC+1) a 11:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103222_AFAZ612103PRP11911.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103222_AFAZ612103PRP11911.xml</id>
+<updated>2024-01-18T10:32:22+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Lluvias. Sierra norte de Sevilla</title>
+<summary>Aviso de precipitación acumulada en una hora de nivel amarillo de 00:00 19-01-2024 CET (UTC+1) a 11:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103222_AFAZ614101PRP11911.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103222_AFAZ614101PRP11911.xml</id>
+<updated>2024-01-18T10:32:22+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Lluvias. Campiña sevillana</title>
+<summary>Aviso de precipitación acumulada en una hora de nivel amarillo de 00:00 19-01-2024 CET (UTC+1) a 11:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103222_AFAZ614102PRP11911.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103222_AFAZ614102PRP11911.xml</id>
+<updated>2024-01-18T10:32:22+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Tormentas. Grazalema</title>
+<summary>Aviso de tormentas de nivel amarillo de 00:00 19-01-2024 CET (UTC+1) a 14:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103222_AFAZ611101TOTO1914.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103222_AFAZ611101TOTO1914.xml</id>
+<updated>2024-01-18T10:32:22+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Tormentas. Campiña gaditana</title>
+<summary>Aviso de tormentas de nivel amarillo de 00:00 19-01-2024 CET (UTC+1) a 14:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103222_AFAZ611102TOTO1914.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103222_AFAZ611102TOTO1914.xml</id>
+<updated>2024-01-18T10:32:22+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Tormentas. Litoral gaditano</title>
+<summary>Aviso de tormentas de nivel amarillo de 00:00 19-01-2024 CET (UTC+1) a 14:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103222_AFAZ611103TOTO1914.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103222_AFAZ611103TOTO1914.xml</id>
+<updated>2024-01-18T10:32:22+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Tormentas. Estrecho</title>
+<summary>Aviso de tormentas de nivel amarillo de 00:00 19-01-2024 CET (UTC+1) a 14:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103222_AFAZ611104TOTO1914.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103222_AFAZ611104TOTO1914.xml</id>
+<updated>2024-01-18T10:32:22+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Litoral de Huelva</title>
+<summary>Aviso de costeros de nivel amarillo de 06:00 19-01-2024 CET (UTC+1) a 09:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103222_AFAZ612103COCO1909.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103222_AFAZ612103COCO1909.xml</id>
+<updated>2024-01-18T10:32:22+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Litoral gaditano</title>
+<summary>Aviso de costeros de nivel amarillo de 08:00 19-01-2024 CET (UTC+1) a 16:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103222_AFAZ611103COCO1916.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103222_AFAZ611103COCO1916.xml</id>
+<updated>2024-01-18T10:32:22+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Estrecho</title>
+<summary>Aviso de costeros de nivel amarillo de 08:00 19-01-2024 CET (UTC+1) a 23:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103222_AFAZ611104COCO1923.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103222_AFAZ611104COCO1923.xml</id>
+<updated>2024-01-18T10:32:22+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Tormentas. Ceuta</title>
+<summary>Aviso de tormentas de nivel amarillo de 09:00 19-01-2024 CET (UTC+1) a 14:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103222_AFAZ785101TOTO1914.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103222_AFAZ785101TOTO1914.xml</id>
+<updated>2024-01-18T10:32:22+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Ceuta</title>
+<summary>Aviso de costeros de nivel amarillo de 13:00 19-01-2024 CET (UTC+1) a 19:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103222_AFAZ785101COCO1919.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118103222_AFAZ785101COCO1919.xml</id>
+<updated>2024-01-18T10:32:22+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Lluvias. Norte de Cáceres</title>
+<summary>Aviso de precipitación acumulada en 12 horas de nivel amarillo de 18:00 18-01-2024 CET (UTC+1) a 17:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102946_AFAZ701001PRP21917.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102946_AFAZ701001PRP21917.xml</id>
+<updated>2024-01-18T10:29:46+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel naranja. Costeros. Poniente y Almería Capital</title>
+<summary>Aviso de costeros de nivel naranja de 18:00 19-01-2024 CET (UTC+1) a 23:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102659_AFAZ610403COCO1923.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102659_AFAZ610403COCO1923.xml</id>
+<updated>2024-01-18T10:26:59+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel naranja. Costeros. Costa granadina</title>
+<summary>Aviso de costeros de nivel naranja de 18:00 19-01-2024 CET (UTC+1) a 23:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102659_AFAZ611804COCO1923.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102659_AFAZ611804COCO1923.xml</id>
+<updated>2024-01-18T10:26:59+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Levante almeriense</title>
+<summary>Aviso de costeros de nivel amarillo de 12:00 19-01-2024 CET (UTC+1) a 23:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102659_AFAZ610404COCO1923.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102659_AFAZ610404COCO1923.xml</id>
+<updated>2024-01-18T10:26:59+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Sol y Guadalhorce</title>
+<summary>Aviso de costeros de nivel amarillo de 12:00 19-01-2024 CET (UTC+1) a 23:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102659_AFAZ612903COCO1923.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102659_AFAZ612903COCO1923.xml</id>
+<updated>2024-01-18T10:26:59+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Axarquía</title>
+<summary>Aviso de costeros de nivel amarillo de 12:00 19-01-2024 CET (UTC+1) a 23:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102659_AFAZ612904COCO1923.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102659_AFAZ612904COCO1923.xml</id>
+<updated>2024-01-18T10:26:59+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Poniente y Almería Capital</title>
+<summary>Aviso de costeros de nivel amarillo de 14:00 19-01-2024 CET (UTC+1) a 17:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102659_AFAZ610403COCO1917.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102659_AFAZ610403COCO1917.xml</id>
+<updated>2024-01-18T10:26:59+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Costa granadina</title>
+<summary>Aviso de costeros de nivel amarillo de 14:00 19-01-2024 CET (UTC+1) a 17:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102659_AFAZ611804COCO1917.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102659_AFAZ611804COCO1917.xml</id>
+<updated>2024-01-18T10:26:59+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Melilla</title>
+<summary>Aviso de costeros de nivel amarillo de 18:00 19-01-2024 CET (UTC+1) a 23:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102659_AFAZ795201COCO1923.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102659_AFAZ795201COCO1923.xml</id>
+<updated>2024-01-18T10:26:59+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Valle del Guadalentín, Lorca y Águilas</title>
+<summary>Aviso de costeros de nivel amarillo de 12:00 19-01-2024 CET (UTC+1) a 21:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102623_AFAZ733004COCO1921.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102623_AFAZ733004COCO1921.xml</id>
+<updated>2024-01-18T10:26:23+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Campo de Cartagena y Mazarrón</title>
+<summary>Aviso de costeros de nivel amarillo de 12:00 19-01-2024 CET (UTC+1) a 21:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102623_AFAZ733005COCO1921.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102623_AFAZ733005COCO1921.xml</id>
+<updated>2024-01-18T10:26:23+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Nevadas. Ibérica riojana</title>
+<summary>Aviso de acumulación de nieve en 24 horas de nivel amarillo de 00:00 19-01-2024 CET (UTC+1) a 23:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102349_AFAZ762602NENV1923.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102349_AFAZ762602NENV1923.xml</id>
+<updated>2024-01-18T10:23:49+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Temperaturas mínimas. Ibérica riojana</title>
+<summary>Aviso de temperatura mínima de nivel amarillo de 22:00 19-01-2024 CET (UTC+1) a 23:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102349_AFAZ762602BTTI1923.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102349_AFAZ762602BTTI1923.xml</id>
+<updated>2024-01-18T10:23:49+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel naranja. Costeros. Ampurdán</title>
+<summary>Aviso de costeros de nivel naranja de 20:00 18-01-2024 CET (UTC+1) a 05:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102310_AFAZ691703COCO1905.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102310_AFAZ691703COCO1905.xml</id>
+<updated>2024-01-18T10:23:10+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel naranja. Nevadas. Ibérica zaragozana</title>
+<summary>Aviso de acumulación de nieve en 24 horas de nivel naranja de 05:00 19-01-2024 CET (UTC+1) a 23:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102310_AFAZ625002NENV1923.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102310_AFAZ625002NENV1923.xml</id>
+<updated>2024-01-18T10:23:10+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Nevadas. Albarracín y Jiloca</title>
+<summary>Aviso de acumulación de nieve en 24 horas de nivel amarillo de 05:00 19-01-2024 CET (UTC+1) a 23:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102310_AFAZ624401NENV1923.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102310_AFAZ624401NENV1923.xml</id>
+<updated>2024-01-18T10:23:10+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Nevadas. Gúdar y Maestrazgo</title>
+<summary>Aviso de acumulación de nieve en 24 horas de nivel amarillo de 05:00 19-01-2024 CET (UTC+1) a 23:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102310_AFAZ624402NENV1923.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102310_AFAZ624402NENV1923.xml</id>
+<updated>2024-01-18T10:23:10+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Nevadas. Prepirineo de Barcelona</title>
+<summary>Aviso de acumulación de nieve en 24 horas de nivel amarillo de 05:00 19-01-2024 CET (UTC+1) a 19:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102310_AFAZ690801NENV1919.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102310_AFAZ690801NENV1919.xml</id>
+<updated>2024-01-18T10:23:10+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Nevadas. Pirineo de Girona</title>
+<summary>Aviso de acumulación de nieve en 24 horas de nivel amarillo de 05:00 19-01-2024 CET (UTC+1) a 19:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102310_AFAZ691701NENV1919.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102310_AFAZ691701NENV1919.xml</id>
+<updated>2024-01-18T10:23:10+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Nevadas. Valle de Arán</title>
+<summary>Aviso de acumulación de nieve en 24 horas de nivel amarillo de 05:00 19-01-2024 CET (UTC+1) a 19:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102310_AFAZ692501NENV1919.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102310_AFAZ692501NENV1919.xml</id>
+<updated>2024-01-18T10:23:10+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Nevadas. Pirineo de Lleida</title>
+<summary>Aviso de acumulación de nieve en 24 horas de nivel amarillo de 05:00 19-01-2024 CET (UTC+1) a 19:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102310_AFAZ692502NENV1919.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102310_AFAZ692502NENV1919.xml</id>
+<updated>2024-01-18T10:23:10+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Ampurdán</title>
+<summary>Aviso de costeros de nivel amarillo de 06:00 19-01-2024 CET (UTC+1) a 23:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102310_AFAZ691703COCO1923.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102310_AFAZ691703COCO1923.xml</id>
+<updated>2024-01-18T10:23:10+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Litoral de Barcelona</title>
+<summary>Aviso de costeros de nivel amarillo de 12:00 19-01-2024 CET (UTC+1) a 23:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102310_AFAZ690804COCO1923.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102310_AFAZ690804COCO1923.xml</id>
+<updated>2024-01-18T10:23:10+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Litoral sur de Girona</title>
+<summary>Aviso de costeros de nivel amarillo de 12:00 19-01-2024 CET (UTC+1) a 23:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102310_AFAZ691704COCO1923.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102310_AFAZ691704COCO1923.xml</id>
+<updated>2024-01-18T10:23:10+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Litoral norte de Tarragona</title>
+<summary>Aviso de costeros de nivel amarillo de 12:00 19-01-2024 CET (UTC+1) a 23:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102310_AFAZ694303COCO1923.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102310_AFAZ694303COCO1923.xml</id>
+<updated>2024-01-18T10:23:10+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Litoral sur de Tarragona</title>
+<summary>Aviso de costeros de nivel amarillo de 12:00 19-01-2024 CET (UTC+1) a 23:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102310_AFAZ694304COCO1923.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102310_AFAZ694304COCO1923.xml</id>
+<updated>2024-01-18T10:23:10+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Sierra Tramontana</title>
+<summary>Aviso de costeros de nivel amarillo de 11:00 18-01-2024 CET (UTC+1) a 14:59 18-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102248_AFAZ645401COCO1814.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102248_AFAZ645401COCO1814.xml</id>
+<updated>2024-01-18T10:22:48+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Norte y nordeste de Mallorca</title>
+<summary>Aviso de costeros de nivel amarillo de 11:00 18-01-2024 CET (UTC+1) a 14:59 18-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102248_AFAZ645402COCO1814.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102248_AFAZ645402COCO1814.xml</id>
+<updated>2024-01-18T10:22:48+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Sur de Mallorca</title>
+<summary>Aviso de costeros de nivel amarillo de 11:00 18-01-2024 CET (UTC+1) a 14:59 18-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102248_AFAZ645404COCO1814.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102248_AFAZ645404COCO1814.xml</id>
+<updated>2024-01-18T10:22:48+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Levante mallorquín</title>
+<summary>Aviso de costeros de nivel amarillo de 11:00 18-01-2024 CET (UTC+1) a 14:59 18-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102248_AFAZ645405COCO1814.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102248_AFAZ645405COCO1814.xml</id>
+<updated>2024-01-18T10:22:48+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Menorca</title>
+<summary>Aviso de costeros de nivel amarillo de 11:00 18-01-2024 CET (UTC+1) a 14:59 18-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102248_AFAZ645501COCO1814.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102248_AFAZ645501COCO1814.xml</id>
+<updated>2024-01-18T10:22:48+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Sierra Tramontana</title>
+<summary>Aviso de costeros de nivel amarillo de 12:00 19-01-2024 CET (UTC+1) a 23:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102248_AFAZ645401COCO1923.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102248_AFAZ645401COCO1923.xml</id>
+<updated>2024-01-18T10:22:48+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Norte y nordeste de Mallorca</title>
+<summary>Aviso de costeros de nivel amarillo de 12:00 19-01-2024 CET (UTC+1) a 23:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102248_AFAZ645402COCO1923.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102248_AFAZ645402COCO1923.xml</id>
+<updated>2024-01-18T10:22:48+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Ibiza y Formentera</title>
+<summary>Aviso de costeros de nivel amarillo de 18:00 19-01-2024 CET (UTC+1) a 23:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102248_AFAZ645301COCO1923.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102248_AFAZ645301COCO1923.xml</id>
+<updated>2024-01-18T10:22:48+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Sur de Mallorca</title>
+<summary>Aviso de costeros de nivel amarillo de 18:00 19-01-2024 CET (UTC+1) a 23:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102248_AFAZ645404COCO1923.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102248_AFAZ645404COCO1923.xml</id>
+<updated>2024-01-18T10:22:48+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Menorca</title>
+<summary>Aviso de costeros de nivel amarillo de 18:00 19-01-2024 CET (UTC+1) a 23:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102248_AFAZ645501COCO1923.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102248_AFAZ645501COCO1923.xml</id>
+<updated>2024-01-18T10:22:48+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel naranja. Nevadas. Meseta de Segovia</title>
+<summary>Aviso de acumulación de nieve en 24 horas de nivel naranja de 00:00 19-01-2024 CET (UTC+1) a 23:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102232_AFAZ674001NENV1923.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102232_AFAZ674001NENV1923.xml</id>
+<updated>2024-01-18T10:22:32+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel naranja. Nevadas. Meseta de Soria</title>
+<summary>Aviso de acumulación de nieve en 24 horas de nivel naranja de 00:00 19-01-2024 CET (UTC+1) a 23:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102232_AFAZ674202NENV1923.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102232_AFAZ674202NENV1923.xml</id>
+<updated>2024-01-18T10:22:32+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Lluvias. Sistema Central de Ávila</title>
+<summary>Aviso de precipitación acumulada en 12 horas de nivel amarillo de 18:00 18-01-2024 CET (UTC+1) a 17:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102232_AFAZ670502PRP21917.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102232_AFAZ670502PRP21917.xml</id>
+<updated>2024-01-18T10:22:32+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Lluvias. Sur de Ávila</title>
+<summary>Aviso de precipitación acumulada en 12 horas de nivel amarillo de 18:00 18-01-2024 CET (UTC+1) a 17:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102232_AFAZ670503PRP21917.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102232_AFAZ670503PRP21917.xml</id>
+<updated>2024-01-18T10:22:32+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Lluvias. Sistema Central de Salamanca</title>
+<summary>Aviso de precipitación acumulada en 12 horas de nivel amarillo de 18:00 18-01-2024 CET (UTC+1) a 17:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102232_AFAZ673702PRP21917.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102232_AFAZ673702PRP21917.xml</id>
+<updated>2024-01-18T10:22:32+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Lluvias. Sur de Salamanca</title>
+<summary>Aviso de precipitación acumulada en 12 horas de nivel amarillo de 18:00 18-01-2024 CET (UTC+1) a 17:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102232_AFAZ673703PRP21917.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102232_AFAZ673703PRP21917.xml</id>
+<updated>2024-01-18T10:22:32+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Nevadas. Sistema Central de Ávila</title>
+<summary>Aviso de acumulación de nieve en 24 horas de nivel amarillo de 00:00 19-01-2024 CET (UTC+1) a 23:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102232_AFAZ670502NENV1923.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102232_AFAZ670502NENV1923.xml</id>
+<updated>2024-01-18T10:22:32+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Nevadas. Meseta de Burgos</title>
+<summary>Aviso de acumulación de nieve en 24 horas de nivel amarillo de 00:00 19-01-2024 CET (UTC+1) a 23:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102232_AFAZ670904NENV1923.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102232_AFAZ670904NENV1923.xml</id>
+<updated>2024-01-18T10:22:32+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Nevadas. Ibérica de Burgos</title>
+<summary>Aviso de acumulación de nieve en 24 horas de nivel amarillo de 00:00 19-01-2024 CET (UTC+1) a 23:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102232_AFAZ670905NENV1923.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102232_AFAZ670905NENV1923.xml</id>
+<updated>2024-01-18T10:22:32+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Nevadas. Sistema Central de Segovia</title>
+<summary>Aviso de acumulación de nieve en 24 horas de nivel amarillo de 00:00 19-01-2024 CET (UTC+1) a 23:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102232_AFAZ674002NENV1923.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102232_AFAZ674002NENV1923.xml</id>
+<updated>2024-01-18T10:22:32+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Nevadas. Ibérica de Soria</title>
+<summary>Aviso de acumulación de nieve en 24 horas de nivel amarillo de 00:00 19-01-2024 CET (UTC+1) a 23:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102232_AFAZ674201NENV1923.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102232_AFAZ674201NENV1923.xml</id>
+<updated>2024-01-18T10:22:32+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Nevadas. Sistema Central de Soria</title>
+<summary>Aviso de acumulación de nieve en 24 horas de nivel amarillo de 00:00 19-01-2024 CET (UTC+1) a 23:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102232_AFAZ674203NENV1923.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102232_AFAZ674203NENV1923.xml</id>
+<updated>2024-01-18T10:22:32+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Temperaturas mínimas. Ibérica de Burgos</title>
+<summary>Aviso de temperatura mínima de nivel amarillo de 22:00 19-01-2024 CET (UTC+1) a 23:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102232_AFAZ670905BTTI1923.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102232_AFAZ670905BTTI1923.xml</id>
+<updated>2024-01-18T10:22:32+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Temperaturas mínimas. Cordillera Cantábrica de León</title>
+<summary>Aviso de temperatura mínima de nivel amarillo de 22:00 19-01-2024 CET (UTC+1) a 23:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102232_AFAZ672401BTTI1923.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102232_AFAZ672401BTTI1923.xml</id>
+<updated>2024-01-18T10:22:32+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Temperaturas mínimas. Cordillera Cantábrica de Palencia</title>
+<summary>Aviso de temperatura mínima de nivel amarillo de 22:00 19-01-2024 CET (UTC+1) a 23:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102232_AFAZ673401BTTI1923.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102232_AFAZ673401BTTI1923.xml</id>
+<updated>2024-01-18T10:22:32+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Temperaturas mínimas. Ibérica de Soria</title>
+<summary>Aviso de temperatura mínima de nivel amarillo de 22:00 19-01-2024 CET (UTC+1) a 23:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102232_AFAZ674201BTTI1923.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102232_AFAZ674201BTTI1923.xml</id>
+<updated>2024-01-18T10:22:32+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Temperaturas mínimas. Meseta de Soria</title>
+<summary>Aviso de temperatura mínima de nivel amarillo de 22:00 19-01-2024 CET (UTC+1) a 23:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102232_AFAZ674202BTTI1923.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102232_AFAZ674202BTTI1923.xml</id>
+<updated>2024-01-18T10:22:32+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel naranja. Costeros. Litoral norte de Castellón</title>
+<summary>Aviso de costeros de nivel naranja de 15:00 19-01-2024 CET (UTC+1) a 23:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102201_AFAZ771202COCO1923.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102201_AFAZ771202COCO1923.xml</id>
+<updated>2024-01-18T10:22:01+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel naranja. Costeros. Litoral sur de Castellón</title>
+<summary>Aviso de costeros de nivel naranja de 15:00 19-01-2024 CET (UTC+1) a 23:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102201_AFAZ771204COCO1923.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102201_AFAZ771204COCO1923.xml</id>
+<updated>2024-01-18T10:22:01+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel naranja. Costeros. Litoral norte de Valencia</title>
+<summary>Aviso de costeros de nivel naranja de 15:00 19-01-2024 CET (UTC+1) a 23:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102201_AFAZ774602COCO1923.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102201_AFAZ774602COCO1923.xml</id>
+<updated>2024-01-18T10:22:01+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel naranja. Costeros. Litoral sur de Valencia</title>
+<summary>Aviso de costeros de nivel naranja de 15:00 19-01-2024 CET (UTC+1) a 23:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102201_AFAZ774604COCO1923.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102201_AFAZ774604COCO1923.xml</id>
+<updated>2024-01-18T10:22:01+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel naranja. Costeros. Litoral norte de Alicante</title>
+<summary>Aviso de costeros de nivel naranja de 18:00 19-01-2024 CET (UTC+1) a 23:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102201_AFAZ770301COCO1923.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102201_AFAZ770301COCO1923.xml</id>
+<updated>2024-01-18T10:22:01+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Litoral sur de Alicante</title>
+<summary>Aviso de costeros de nivel amarillo de 20:00 19-01-2024 CET (UTC+1) a 23:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102201_AFAZ770303COCO1923.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102201_AFAZ770303COCO1923.xml</id>
+<updated>2024-01-18T10:22:01+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Lluvias. Sierra de San Vicente</title>
+<summary>Aviso de precipitación acumulada en 12 horas de nivel amarillo de 21:00 18-01-2024 CET (UTC+1) a 17:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102022_AFAZ684501PRP21917.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102022_AFAZ684501PRP21917.xml</id>
+<updated>2024-01-18T10:20:22+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Lluvias. Valle del Tajo</title>
+<summary>Aviso de precipitación acumulada en 12 horas de nivel amarillo de 21:00 18-01-2024 CET (UTC+1) a 17:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102022_AFAZ684502PRP21917.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102022_AFAZ684502PRP21917.xml</id>
+<updated>2024-01-18T10:20:22+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Lluvias. Alcarria conquense</title>
+<summary>Aviso de precipitación acumulada en 12 horas de nivel amarillo de 00:00 19-01-2024 CET (UTC+1) a 17:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102022_AFAZ681601PRP21917.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102022_AFAZ681601PRP21917.xml</id>
+<updated>2024-01-18T10:20:22+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Lluvias. Alcarria de Guadalajara</title>
+<summary>Aviso de precipitación acumulada en 12 horas de nivel amarillo de 00:00 19-01-2024 CET (UTC+1) a 17:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102022_AFAZ681903PRP21917.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102022_AFAZ681903PRP21917.xml</id>
+<updated>2024-01-18T10:20:22+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Lluvias. Metropolitana y Henares</title>
+<summary>Aviso de precipitación acumulada en 12 horas de nivel amarillo de 00:00 19-01-2024 CET (UTC+1) a 17:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102022_AFAZ722802PRP21917.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102022_AFAZ722802PRP21917.xml</id>
+<updated>2024-01-18T10:20:22+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Lluvias. Sur, Vegas y Oeste</title>
+<summary>Aviso de precipitación acumulada en 12 horas de nivel amarillo de 00:00 19-01-2024 CET (UTC+1) a 17:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102022_AFAZ722803PRP21917.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102022_AFAZ722803PRP21917.xml</id>
+<updated>2024-01-18T10:20:22+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Nevadas. Serranía de Guadalajara</title>
+<summary>Aviso de acumulación de nieve en 24 horas de nivel amarillo de 08:00 19-01-2024 CET (UTC+1) a 20:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102022_AFAZ681901NENV1920.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102022_AFAZ681901NENV1920.xml</id>
+<updated>2024-01-18T10:20:22+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Nevadas. Parameras de Molina</title>
+<summary>Aviso de acumulación de nieve en 24 horas de nivel amarillo de 08:00 19-01-2024 CET (UTC+1) a 20:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102022_AFAZ681902NENV1920.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102022_AFAZ681902NENV1920.xml</id>
+<updated>2024-01-18T10:20:22+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Nevadas. Sierra de Madrid</title>
+<summary>Aviso de acumulación de nieve en 24 horas de nivel amarillo de 08:00 19-01-2024 CET (UTC+1) a 20:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102022_AFAZ722801NENV1920.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118102022_AFAZ722801NENV1920.xml</id>
+<updated>2024-01-18T10:20:22+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Noroeste de A Coruña</title>
+<summary>Aviso de costeros de nivel amarillo de 03:00 19-01-2024 CET (UTC+1) a 15:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118101113_AFAZ711501COCO1915.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118101113_AFAZ711501COCO1915.xml</id>
+<updated>2024-01-18T10:11:13+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Oeste de A Coruña</title>
+<summary>Aviso de costeros de nivel amarillo de 03:00 19-01-2024 CET (UTC+1) a 15:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118101113_AFAZ711502COCO1915.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118101113_AFAZ711502COCO1915.xml</id>
+<updated>2024-01-18T10:11:13+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Litoral occidental asturiano</title>
+<summary>Aviso de costeros de nivel amarillo de 06:00 19-01-2024 CET (UTC+1) a 15:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118101113_AFAZ633301COCO1915.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118101113_AFAZ633301COCO1915.xml</id>
+<updated>2024-01-18T10:11:13+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. A Mariña</title>
+<summary>Aviso de costeros de nivel amarillo de 06:00 19-01-2024 CET (UTC+1) a 15:59 19-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118101113_AFAZ712701COCO1915.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118101113_AFAZ712701COCO1915.xml</id>
+<updated>2024-01-18T10:11:13+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Vientos. Noroeste de Murcia</title>
+<summary>Aviso de rachas máximas de nivel amarillo de 11:00 18-01-2024 CET (UTC+1) a 11:59 18-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118080743_AFAZ733002VIRM1811.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118080743_AFAZ733002VIRM1811.xml</id>
+<updated>2024-01-18T08:07:43+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Vientos. Gipuzkoa litoral</title>
+<summary>Aviso de rachas máximas de nivel amarillo de 12:00 18-01-2024 CET (UTC+1) a 15:59 18-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118075011_AFAZ752001VIRM1815.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118075011_AFAZ752001VIRM1815.xml</id>
+<updated>2024-01-18T07:50:11+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Vientos. Bizkaia litoral</title>
+<summary>Aviso de rachas máximas de nivel amarillo de 12:00 18-01-2024 CET (UTC+1) a 15:59 18-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118075011_AFAZ754801VIRM1815.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118075011_AFAZ754801VIRM1815.xml</id>
+<updated>2024-01-18T07:50:11+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Vientos. Valle del Almanzora y Los Vélez</title>
+<summary>Aviso de rachas máximas de nivel amarillo de 11:00 18-01-2024 CET (UTC+1) a 11:59 18-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118074920_AFAZ610401VIRM1811.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118074920_AFAZ610401VIRM1811.xml</id>
+<updated>2024-01-18T07:49:20+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Litoral cántabro</title>
+<summary>Aviso de costeros de nivel amarillo de 11:00 18-01-2024 CET (UTC+1) a 14:59 18-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118073209_AFAZ663901COCO1814.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118073209_AFAZ663901COCO1814.xml</id>
+<updated>2024-01-18T07:32:09+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Gipuzkoa litoral</title>
+<summary>Aviso de costeros de nivel amarillo de 13:00 18-01-2024 CET (UTC+1) a 17:59 18-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118073209_AFAZ752001COCO1817.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118073209_AFAZ752001COCO1817.xml</id>
+<updated>2024-01-18T07:32:09+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Bizkaia litoral</title>
+<summary>Aviso de costeros de nivel amarillo de 13:00 18-01-2024 CET (UTC+1) a 17:59 18-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118073209_AFAZ754801COCO1817.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118073209_AFAZ754801COCO1817.xml</id>
+<updated>2024-01-18T07:32:09+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Litoral occidental asturiano</title>
+<summary>Aviso de costeros de nivel amarillo de 11:00 18-01-2024 CET (UTC+1) a 11:59 18-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118072827_AFAZ633301COCO1811.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118072827_AFAZ633301COCO1811.xml</id>
+<updated>2024-01-18T07:28:27+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Litoral oriental asturiano</title>
+<summary>Aviso de costeros de nivel amarillo de 11:00 18-01-2024 CET (UTC+1) a 11:59 18-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118072827_AFAZ633302COCO1811.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118072827_AFAZ633302COCO1811.xml</id>
+<updated>2024-01-18T07:28:27+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Noroeste de A Coruña</title>
+<summary>Aviso de costeros de nivel amarillo de 11:00 18-01-2024 CET (UTC+1) a 12:59 18-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118070919_AFAZ711501COCO1812.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118070919_AFAZ711501COCO1812.xml</id>
+<updated>2024-01-18T07:09:19+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Oeste de A Coruña</title>
+<summary>Aviso de costeros de nivel amarillo de 11:00 18-01-2024 CET (UTC+1) a 14:59 18-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118070919_AFAZ711502COCO1814.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118070919_AFAZ711502COCO1814.xml</id>
+<updated>2024-01-18T07:09:19+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Suroeste de A Coruña</title>
+<summary>Aviso de costeros de nivel amarillo de 11:00 18-01-2024 CET (UTC+1) a 14:59 18-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118070919_AFAZ711504COCO1814.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118070919_AFAZ711504COCO1814.xml</id>
+<updated>2024-01-18T07:09:19+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Rias Baixas</title>
+<summary>Aviso de costeros de nivel amarillo de 11:00 18-01-2024 CET (UTC+1) a 14:59 18-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118070919_AFAZ713601COCO1814.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118070919_AFAZ713601COCO1814.xml</id>
+<updated>2024-01-18T07:09:19+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Miño de Pontevedra</title>
+<summary>Aviso de costeros de nivel amarillo de 11:00 18-01-2024 CET (UTC+1) a 14:59 18-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118070919_AFAZ713603COCO1814.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240118070919_AFAZ713603COCO1814.xml</id>
+<updated>2024-01-18T07:09:19+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Lluvias. Cumbres de La Palma</title>
+<summary>Aviso de precipitación acumulada en una hora de nivel amarillo de 11:00 18-01-2024 WET (UTC) a 17:59 18-01-2024 WET (UTC).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240117102950_AFAZ659302PRP11818.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240117102950_AFAZ659302PRP11818.xml</id>
+<updated>2024-01-17T10:29:50+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Lluvias. Este de La Palma</title>
+<summary>Aviso de precipitación acumulada en una hora de nivel amarillo de 11:00 18-01-2024 WET (UTC) a 17:59 18-01-2024 WET (UTC).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240117102950_AFAZ659303PRP11818.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240117102950_AFAZ659303PRP11818.xml</id>
+<updated>2024-01-17T10:29:50+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Lluvias. Oeste de La Palma</title>
+<summary>Aviso de precipitación acumulada en una hora de nivel amarillo de 11:00 18-01-2024 WET (UTC) a 17:59 18-01-2024 WET (UTC).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240117102950_AFAZ659304PRP11818.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240117102950_AFAZ659304PRP11818.xml</id>
+<updated>2024-01-17T10:29:50+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Lluvias. El Hierro</title>
+<summary>Aviso de precipitación acumulada en una hora de nivel amarillo de 11:00 18-01-2024 WET (UTC) a 17:59 18-01-2024 WET (UTC).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240117102950_AFAZ659501PRP11818.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240117102950_AFAZ659501PRP11818.xml</id>
+<updated>2024-01-17T10:29:50+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Vientos. Interior norte de Castellón</title>
+<summary>Aviso de rachas máximas de nivel amarillo de 11:00 18-01-2024 CET (UTC+1) a 13:59 18-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240117101529_AFAZ771201VIRM1813.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240117101529_AFAZ771201VIRM1813.xml</id>
+<updated>2024-01-17T10:15:29+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Vientos. Interior sur de Castellón</title>
+<summary>Aviso de rachas máximas de nivel amarillo de 11:00 18-01-2024 CET (UTC+1) a 13:59 18-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240117101529_AFAZ771203VIRM1813.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240117101529_AFAZ771203VIRM1813.xml</id>
+<updated>2024-01-17T10:15:29+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Vientos. Interior norte de Valencia</title>
+<summary>Aviso de rachas máximas de nivel amarillo de 11:00 18-01-2024 CET (UTC+1) a 13:59 18-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240117101529_AFAZ774601VIRM1813.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240117101529_AFAZ774601VIRM1813.xml</id>
+<updated>2024-01-17T10:15:29+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Vientos. Interior sur de Valencia</title>
+<summary>Aviso de rachas máximas de nivel amarillo de 11:00 18-01-2024 CET (UTC+1) a 13:59 18-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240117101529_AFAZ774603VIRM1813.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240117101529_AFAZ774603VIRM1813.xml</id>
+<updated>2024-01-17T10:15:29+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Vientos. Albarracín y Jiloca</title>
+<summary>Aviso de rachas máximas de nivel amarillo de 11:00 18-01-2024 CET (UTC+1) a 14:59 18-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240117101425_AFAZ624401VIRM1814.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240117101425_AFAZ624401VIRM1814.xml</id>
+<updated>2024-01-17T10:14:25+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Vientos. Gúdar y Maestrazgo</title>
+<summary>Aviso de rachas máximas de nivel amarillo de 11:00 18-01-2024 CET (UTC+1) a 11:59 18-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240117101425_AFAZ624402VIRM1811.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240117101425_AFAZ624402VIRM1811.xml</id>
+<updated>2024-01-17T10:14:25+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Vientos. Ibérica zaragozana</title>
+<summary>Aviso de rachas máximas de nivel amarillo de 11:00 18-01-2024 CET (UTC+1) a 14:59 18-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240117101425_AFAZ625002VIRM1814.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240117101425_AFAZ625002VIRM1814.xml</id>
+<updated>2024-01-17T10:14:25+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Costeros. Litoral sur de Girona</title>
+<summary>Aviso de costeros de nivel amarillo de 11:00 18-01-2024 CET (UTC+1) a 15:59 18-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240117101425_AFAZ691704COCO1815.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240117101425_AFAZ691704COCO1815.xml</id>
+<updated>2024-01-17T10:14:25+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Vientos. Alcaraz y Segura</title>
+<summary>Aviso de rachas máximas de nivel amarillo de 11:00 18-01-2024 CET (UTC+1) a 11:59 18-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240117100916_AFAZ680202VIRM1811.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240117100916_AFAZ680202VIRM1811.xml</id>
+<updated>2024-01-17T10:09:16+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Vientos. Serranía de Cuenca</title>
+<summary>Aviso de rachas máximas de nivel amarillo de 11:00 18-01-2024 CET (UTC+1) a 11:59 18-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240117100916_AFAZ681602VIRM1811.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240117100916_AFAZ681602VIRM1811.xml</id>
+<updated>2024-01-17T10:09:16+00:00</updated>
+</entry>
+<entry>
+<title>Aviso. Nivel amarillo. Vientos. Parameras de Molina</title>
+<summary>Aviso de rachas máximas de nivel amarillo de 11:00 18-01-2024 CET (UTC+1) a 11:59 18-01-2024 CET (UTC+1).</summary>
+<link href="https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240117100916_AFAZ681902VIRM1811.xml"/>
+<id>https://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/cap/Z_CAP_C_LEMM_20240117100916_AFAZ681902VIRM1811.xml</id>
+<updated>2024-01-17T10:09:16+00:00</updated>
+</entry>
+</feed>
