@@ -6,10 +6,12 @@ h1 {
     color: aquamarine;
     background-color: blue;
 }
+h2 {
+  color: rgb(21, 253, 21);
+}
 a {
-    color: rgb(229, 255, 0);
+    color: rgb(86, 8, 255);
     text-decoration: none;
-    background-color: rgb(255, 0, 0);
   }
   
   a:visited {
@@ -17,18 +19,18 @@ a {
   }
   
   a:hover {
-    color: #FFF;
-    background-color: rgb(221, 9, 122);
+    color: #000000;
+    background-color: rgb(142, 255, 100);
     text-decoration: underline;
   }
   
   a:focus {
-    color: rgb(255, 0, 119);
+    color: rgb(0, 115, 255);
     text-decoration: underline;
   }
   
   a:active {
-    color: rgb(208, 0, 255);
+    color: rgb(0, 115, 203);
     background-color: #FFF;
     text-decoration: none;
   }
