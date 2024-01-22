@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <image>
+      <url>https://i.pinimg.com/564x/d6/57/ce/d657ce222d1de8ec2a1d89d44ee27e28.jpg</url>
+      <title>Logo del canal</title>
+      <link>https://i.pinimg.com/564x/d6/57/ce/d657ce222d1de8ec2a1d89d44ee27e28.jpg</link>
+    </image>
+    <title>Ejercicio sobre RSS</title>
+    <link>https://shiny-barnacle-gqvg9kg.pages.github.io/</link>
+    <description>Pagina Inicial</description>
+    <webMaster>a18macaos@iesgrancapitan-org</webMaster>
+    <lastBuildDate>mon, 22 Jan 2024 20:00:00</lastBuildDate>
+    <item>
+      <title>Proximos lanzamientos de videojuegos</title>
+      <source>Vandak</source>
+      <link>https://vandal.elespanol.com/lanzamientos/0/videojuegos</link>
+      <description>Los juegos mas esperados para las plataformas de Playstation, Xbox, Switch y PC</description>
+      <category>Videojuegos</category>
+      <language>Español</language>
+    </item>
+    <item>
+      <title>Proximos eventos de videojuegos</title>
+      <source>Marca</source>
+      <enclosure url="https://www.marca.com/" type="image/jpeg"/>
+      <link>https://www.marca.com/videojuegos/esports/2024/01/02/65940d27e2704e73508b4582.html</link>
+      <description>Fechas de los eventos más importantes de los videojuegos más importantes actualmente</description>
+      <category>Videojuegos</category>
+      <language>Español</language>
+    </item>
+    <item>
+      <title>Noticias Locales</title>
+      <link>https://cordopolis.eldiario.es/</link>
+      <description>Noticias sobre córdoba capital</description>
+      <category>Noticias</category>
+    </item>
+    <item>
+      <title>Noticias Nacional e Internacional</title>
+      <link>https://elpais.com/internacional/2024-01-22/guerra-entre-israel-y-gaza-en-directo.html</link>
+      <description>Noticias del periódico "el país"</description>
+      <category>Noticias</category>
+      <pubDate>20:00:00</pubDate>
+    </item>
+  </channel>
+</rss>
