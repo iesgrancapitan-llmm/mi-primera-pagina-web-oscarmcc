@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+    <title>Noticias actualizadas</title>
+    <subtitle>Las noticias del mundo en tus manos</subtitle>
+    <link rel="self" href="https://shiny-barnacle-gqvg9kg.pages.github.io/" />
+    <author>
+        <name>Óscar Martín-Castaño</name>
+        <email>a18macaos@iesgrancapitan.org</email>
+    </author>
+    <id>1237845-98</id>
+    <updated>2024-01-24 T18:30:00Z </updated>
+    <rights>Copyright © 2024 Óscar Martín-Castaño. Todos los derechos reservados.</rights>
+    <category term="Noticias" />
+    <entry>
+        <id>232423-43</id>
+        <updated>2024-01-24 T18:31:00Z </updated>
+        <title>Proximos lanzamientos sobre Videojuegos</title>
+        <link href="https://vandal.elespanol.com/lanzamientos/0/videojuegos" />
+        <author>
+            <name>Óscar Martín-Castaño</name>
+        </author>
+        <source>
+            <id>786459-01</id>
+            <updated>2024-01-24 T18:37:00Z </updated>
+            <title>Fuente de Información de Lanzamientos</title>
+            <uri>https://vandal.elespanol.com/lanzamientos/0/videojuegos</uri>
+        </source>
+        <content type="html">&lt;p&gt;Contenido de la entrada 1</content>
+    </entry>
+    <entry>
+        <id>4563728-78</id>
+        <updated>2024-01-24 T18:32:00Z </updated>
+        <title>Próximos Eventos de Videojuegos</title>
+        <author>
+            <name>Rafa López</name>
+            <uri>https://www.marca.com/videojuegos/esports/2024/01/02/65940d27e2704e73508b4582.html</uri>
+        </author>
+        <content type="html">&lt;p&gt;Contenido de la entrada 2</content>
+    </entry>
+    <entry>
+        <id>728345-12</id>
+        <updated>2024-01-24 T18:33:00Z </updated>
+        <title>Archivo PDF</title>
+        <link href="https://www.hasbro.com/common/instruct/Monopoly%28Spanish%29.pdf" />
+        <author>
+            <name>Carmen Castillo</name>
+        </author>
+        <content type="html">&lt;p&gt;Instrucciones Monopoly &lt;a
+            href="https://www.hasbro.com/common/instruct/Monopoly%28Spanish%29.pdf"&gt;Descargar el
+            archivo PDF&lt;/a&gt;.&lt;/p&gt;</content>
+    </entry>
+    <entry>
+        <id>6728190-02</id>
+        <updated>2024-01-24 T18:34:00Z </updated>
+        <title>Archivo Multimedia</title>
+        <link
+            href="https://drive.google.com/file/d/127RToT4UiWt973p8caJXjNgQ0I45ELKD/view?usp=sharing" />
+        <author>
+            <name>Ana García</name>
+            <uri>https://ejemplo.com/author/ana</uri>
+        </author>
+        <content type="html">&lt;p&gt;Contenido Audiovisual: &lt;a
+            href="https://drive.google.com/file/d/127RToT4UiWt973p8caJXjNgQ0I45ELKD/view?usp=sharing"&gt;Reproducir
+            el video&lt;/a&gt;.&lt;/p&gt;</content>
+    </entry>
+</feed>
