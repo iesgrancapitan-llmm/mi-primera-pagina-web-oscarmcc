@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE carta [
+<!ELEMENT carta (alimento)+>
+<!ELEMENT alimento (nombre , precio , descripcion , calorias)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT precio (#PCDATA)>
+<!ATTLIST precio moneda CDATA #REQUIRED>
+<!ELEMENT descripcion (#PCDATA)>
+<!ELEMENT calorias (#PCDATA)>
+]>
+<carta>
+  <alimento>
+    <nombre>Gofres Belgas</nombre>
+    <precio moneda="euro">5.95</precio>
+    <descripcion>Dos de nuestros famosos Gofres Belgas con abundante sirope</descripcion>
+    <calorias>650</calorias>
+  </alimento>
+  <alimento>
+    <nombre>Gofres Belgas con fresas</nombre>
+    <precio moneda="euro">7.95</precio>
+    <descripcion>Ligeros gofres belgas cubiertos de fresas y nata montada</descripcion>
+    <calorias>900</calorias>
+  </alimento>
+  <alimento>
+    <nombre>Gofres Belgas con frutas del bosque</nombre>
+    <precio moneda="euro">8.95</precio>
+    <descripcion>Ligeros gofres belgas cubiertos con frutas del bosque y nata montada</descripcion>
+    <calorias>900</calorias>
+  </alimento>
+  <alimento>
+    <nombre>Tostada Francesa</nombre>
+    <precio moneda="euro">4.50</precio>
+    <descripcion>Dos gruesas rebanadas de nuestro pan francés casero</descripcion>
+    <calorias>600</calorias>
+  </alimento>
+  <alimento>
+    <nombre>Desayuno de la casa</nombre>
+    <precio moneda="euro">6.95</precio>
+    <descripcion>Dos huevos, bacon o salchicha, tostada y patatas fritas</descripcion>
+    <calorias>950</calorias>
+  </alimento>
+</carta>
