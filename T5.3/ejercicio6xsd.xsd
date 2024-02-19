@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="formaDePago">
+    <xs:choice>
+      <xs:element name="tarjeta" type="xs:string"/>
+      <xs:element name="transferencia" type="xs:string"/>
+    </xs:choice>
+  </xs:complexType>
+  <xs:complexType name="datos">
+    <xs:sequence>
+      <xs:element name="nombre" type="xs:string"/>
+      <xs:element name="apellidos" type="xs:string"/>
+      <xs:element name="dni" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="personas">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="datos" type="datos" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element name="comentario" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element name="fecha_de_nacimiento" type="xs:date" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element name="forma_de_pago" type="formaDePago" minOccurs="0" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

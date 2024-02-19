@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<personas>
+  <persona>
+    <datos>
+      <nombre>Ana</nombre>
+      <apellidos>Sanz Tin</apellidos>
+      <dni>12345678A</dni>
+    </datos>
+    <comentario>Descripción de Ana</comentario>
+    <fecha_de_nacimiento>1990-05-15</fecha_de_nacimiento>
+    <forma_de_pago>
+      <tarjeta>1234-5678-9012-3456</tarjeta>
+    </forma_de_pago>
+  </persona>
+</personas>
