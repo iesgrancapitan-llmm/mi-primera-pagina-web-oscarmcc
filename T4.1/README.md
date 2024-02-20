@@ -6,7 +6,7 @@ ___
 ## RSS
 [Fichero rss](ficherorss)
 
-![Validacion](Validación%20rss.png)
+![Validación](<Validacion rss.png>)
 ___
 Esta es la imagen donde podemos ver que hemos chequeado el fichero rss
 
