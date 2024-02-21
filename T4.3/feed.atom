@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"
   xml:lang="es"
-  xml:base="https://github.com/iesgrancapitan-llmm/mi-primera-pagina-web-oscarmcc">
+  xml:base=" https://iesgrancapitan-llmm.github.io/mi-primera-pagina-web-oscarmcc/">
   <id>urn:uuid:7f6a400c-b934-11ee-baab-69960a9b2b48</id>
   <title>
     Noticias sobre Videojuegos
@@ -9,7 +9,7 @@
   <author>
     <name>Óscar</name>
   </author>
-  <link href="https://github.com/iesgrancapitan-llmm/mi-primera-pagina-web-oscarmcc" rel="self" />
+  <link href=" https://iesgrancapitan-llmm.github.io/mi-primera-pagina-web-oscarmcc/" rel="self" />
   <updated>2023-11-19T22:50:00Z</updated>
   <category term="Videojuegos" />
   <rights>GPL</rights>

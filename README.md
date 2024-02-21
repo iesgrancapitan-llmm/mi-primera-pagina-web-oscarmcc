@@ -1,7 +1,7 @@
 # UD2 A1 Mi primera página Web
 
 # Hosting
-[hosting](https://shiny-barnacle-gqvg9kg.pages.github.io/)
+[hosting](https://iesgrancapitan-llmm.github.io/mi-primera-pagina-web-oscarmcc/)
 
 ## Visual Studio Code
 Utiliza Visual Studio Code. Debes prepararlo con las extensiones necesarias para el trabajo con html. Para visualizarlo en el navegador o directamente en el Visual Studio Code: 
