@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+ xml:lang="es"
+ xml:base="http://www.ejemplo.org">
+    <title>Noticias</title>
+    <category term="variety"/>
+    <link href="http://ejemplo.org/"/>
+    <updated>2020-12-13T18:30:02Z</updated>
+    <author>
+    <name>Óscar Martín-Castaño Carrillo</name>
+    </author>
+    <id>urn:uuid:60a76c80-d399-11d9-b93C-0003939e0af6</id> 
+    
+    <entry>
+    <title>Proximos lanzamientos sobre Videojuegos</title>       
+    <link href="https://vandal.elespanol.com/lanzamientos/0/videojuegos"/>
+    <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+    <updated>2020-12-13T18:30:02Z</updated>
+    <summary>Proximos lanzamientos sobre Videojuegos</summary>
+    </entry>
+    
+    <entry>
+    <title>Código HTML</title>       
+    <link href="https://github.com/iesgrancapitan-llmm/mi-primera-pagina-web-oscarmcc/blob/main/index.html"/>
+    <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6b</id>
+    <updated>2020-12-13T18:30:02Z</updated>
+    <summary>Este enlace te llevara a un código HTML</summary>
+    </entry>
+
+    <entry>
+    <title>Archivo PDF</title>       
+    <link href="https://github.com/iesgrancapitan-llmm/mi-primera-pagina-web-oscarmcc/blob/main/HTML%20y%20CSS.pdf"/>
+    <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6d</id>
+    <updated>2020-12-13T18:30:02Z</updated>
+    <summary>Este enlace te llevará a un archivo PDF de la Sindicación de contenidos</summary>
+    </entry>
+
+    <entry>
+    <title>Archivo multimedia</title>       
+    <link href="https://youtu.be/fi_iBRPr0aw?si=xv2Yks8HjRLwhB3W"/>
+    <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6c</id>
+    <updated>2020-12-13T18:30:02Z</updated>
+    <summary>El siguiente enlace te llevará a un video de youtube sobre la creación de un juego en python</summary>
+    </entry>
+</feed>
