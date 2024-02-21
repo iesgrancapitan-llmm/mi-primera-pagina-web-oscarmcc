@@ -1,29 +1,80 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Noticias actualizadas</title>
-  <subtitle>Las noticias del mundo en tus manos</subtitle>
-  <link href="https://shiny-barnacle-gqvg9kg.pages.github.io/" rel="self" />
-  <link href="https://shiny-barnacle-gqvg9kg.pages.github.io/" />
-  <updated>2024-02-20T12:00:00Z</updated>
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xml:lang="es"
+  xml:base="https://github.com/iesgrancapitan-llmm/mi-primera-pagina-web-oscarmcc">
+  <id>urn:uuid:7f6a400c-b934-11ee-baab-69960a9b2b48</id>
+  <title>
+    Noticias sobre Videojuegos
+  </title>
   <author>
-    <name>Óscar Martín-Castaño Carrillo</name>
-    <email>a18macaos@iesgrancapitan.org</email>
+    <name>Óscar</name>
   </author>
-  <id>urn:uuid:60a16c00-d367-4b38-bceb-20b9bc9d1f35</id>
+  <link href="https://github.com/iesgrancapitan-llmm/mi-primera-pagina-web-oscarmcc" rel="self" />
+  <updated>2023-11-19T22:50:00Z</updated>
+  <category term="Videojuegos" />
+  <rights>GPL</rights>
 
   <entry>
-    <title>Proximos lanzamientos sobre Videojuegos</title>
-    <link href="https://vandal.elespanol.com/lanzamientos/0/videojuegos" />
-    <id>urn:uuid:12345678-abcd-efgh-ijkl-9876543210</id>
-    <updated>2024-02-20T11:00:00Z</updated>
-    <summary>Este es el contenido de la entrada 1.</summary>
+    <id>urn:uuid:6f6a400c-b934-11ee-baab-69760a9b2b48</id>
+    <title>
+      Archivo PDF
+    </title>
+    <author>
+      <name>HTML</name>
+    </author>
+
+    <link rel="alternate"
+      href="https://github.com/iesgrancapitan-llmm/mi-primera-pagina-web-oscarmcc/blob/main/HTML%20y%20CSS.pdf" />
+    <updated>2023-03-12T21:47:00Z</updated>
   </entry>
 
   <entry>
-    <title>Próximos Eventos de Videojuegos</title>
-    <link href="https://www.marca.com/videojuegos/esports/2024/01/02/65940d27e2704e73508b4582.html" />
-    <id>urn:uuid:09876543-zyxw-vuts-rqpo-1234567890</id>
-    <updated>2024-02-20T10:00:00Z</updated>
-    <summary>Este es el contenido de la entrada 2.</summary>
+    <id>urn:uuid:7f6c400c-b934-11ee-baab-68960a9b2b48</id>
+    <title>
+      Proximos lanzamientos sobre Videojuegos
+    </title>
+    <author>
+      <name>Google</name>
+    </author>
+
+    <content>https://vandal.elespanol.com/lanzamientos/0/videojuegos</content>
+    <link rel="alternate" href="https://vandal.elespanol.com/lanzamientos/0/videojuegos" />
+    <updated>2024-02-20T12:00:00Z</updated>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:7f6b400c-b934-11ee-baab-60960a9b2b48</id>
+    <title>
+      Conoce un poquito más del autor de este feed.
+    </title>
+    <author>
+      <name>Óscar</name>
+    </author>
+    <link rel="alternate"
+      href="https://github.com/iesgrancapitan-llmm/sobre-mi-oscargrancapitan" />
+    <updated>2023-08-12T21:47:00Z</updated>
+
+    <source>
+      <title>Mi primera página web</title>
+      <link href="https://shiny-barnacle-gqvg9kg.pages.github.io/" />
+    </source>
+    <content type="html">Página web</content>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:7f5a400c-b934-11ee-baab-69160a9b2b48</id>
+    <title>
+      nvidia gana la batlla de la inteligencia artificial
+    </title>
+    <author><name>DotCSV</name>
+    </author>
+    <link rel="enclosure" type="audio/mpeg"
+      href="https://es.wikipedia.org/wiki/Archivo:Ikusgela-Adimen_artifiziala.webm" />
+
+    <updated>2023-08-12T22:47:00Z</updated>
+    <content type="xhtml">
+      <h1>Hola ATOM</h1>
+      <div>Esta parte del atom es para probar que puedo añadir código html</div>
+    </content>
   </entry>
 </feed>
