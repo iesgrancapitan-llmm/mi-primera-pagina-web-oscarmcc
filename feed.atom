@@ -1,45 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"
- xml:lang="es"
- xml:base="http://www.ejemplo.org">
-    <title>Noticias</title>
-    <category term="variety"/>
-    <link href="http://ejemplo.org/"/>
-    <updated>2020-12-13T18:30:02Z</updated>
+  xml:lang="es"
+  xml:base=" https://iesgrancapitan-llmm.github.io/mi-primera-pagina-web-oscarmcc/">
+  <id>urn:uuid:7f6a400c-b934-11ee-baab-69960a9b2b48</id>
+  <title>
+    Noticias sobre Videojuegos
+  </title>
+  <author>
+    <name>Óscar</name>
+  </author>
+  <link href=" https://iesgrancapitan-llmm.github.io/mi-primera-pagina-web-oscarmcc/" rel="self" />
+  <updated>2023-11-19T22:50:00Z</updated>
+  <category term="Videojuegos" />
+  <rights>GPL</rights>
+
+  <entry>
+    <id>urn:uuid:6f6a400c-b934-11ee-baab-69760a9b2b48</id>
+    <title>
+      Archivo PDF
+    </title>
     <author>
-    <name>Óscar Martín-Castaño Carrillo</name>
+      <name>HTML</name>
     </author>
-    <id>urn:uuid:60a76c80-d399-11d9-b93C-0003939e0af6</id> 
-    
-    <entry>
-    <title>Proximos lanzamientos sobre Videojuegos</title>       
-    <link href="https://vandal.elespanol.com/lanzamientos/0/videojuegos"/>
-    <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
-    <updated>2020-12-13T18:30:02Z</updated>
-    <summary>Proximos lanzamientos sobre Videojuegos</summary>
-    </entry>
-    
-    <entry>
-    <title>Código HTML</title>       
-    <link href="https://github.com/iesgrancapitan-llmm/mi-primera-pagina-web-oscarmcc/blob/main/index.html"/>
-    <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6b</id>
-    <updated>2020-12-13T18:30:02Z</updated>
-    <summary>Este enlace te llevara a un código HTML</summary>
-    </entry>
 
-    <entry>
-    <title>Archivo PDF</title>       
-    <link href="https://github.com/iesgrancapitan-llmm/mi-primera-pagina-web-oscarmcc/blob/main/HTML%20y%20CSS.pdf"/>
-    <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6d</id>
-    <updated>2020-12-13T18:30:02Z</updated>
-    <summary>Este enlace te llevará a un archivo PDF de HTML y CSS</summary>
-    </entry>
+    <link rel="alternate"
+      href="https://github.com/iesgrancapitan-llmm/mi-primera-pagina-web-oscarmcc/blob/main/HTML%20y%20CSS.pdf" />
+    <updated>2023-03-12T21:47:00Z</updated>
+  </entry>
 
-    <entry>
-    <title>Archivo multimedia</title>       
-    <link href="https://youtu.be/fi_iBRPr0aw?si=xv2Yks8HjRLwhB3W"/>
-    <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6c</id>
-    <updated>2020-12-13T18:30:02Z</updated>
-    <summary>El siguiente enlace te llevará a un video de youtube sobre la creación de un juego en python</summary>
-    </entry>
+  <entry>
+    <id>urn:uuid:7f6c400c-b934-11ee-baab-68960a9b2b48</id>
+    <title>
+      Proximos lanzamientos sobre Videojuegos
+    </title>
+    <author>
+      <name>Google</name>
+    </author>
+
+    <content>https://vandal.elespanol.com/lanzamientos/0/videojuegos</content>
+    <link rel="alternate" href="https://vandal.elespanol.com/lanzamientos/0/videojuegos" />
+    <updated>2024-02-20T12:00:00Z</updated>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:7f6b400c-b934-11ee-baab-60960a9b2b48</id>
+    <title>
+      Conoce un poquito más del autor de este feed.
+    </title>
+    <author>
+      <name>Óscar</name>
+    </author>
+    <link rel="alternate"
+      href="https://github.com/iesgrancapitan-llmm/sobre-mi-oscargrancapitan" />
+    <updated>2023-08-12T21:47:00Z</updated>
+
+    <source>
+      <title>Mi primera página web</title>
+      <link href="https://shiny-barnacle-gqvg9kg.pages.github.io/" />
+    </source>
+    <content type="html">Página web</content>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:7f5a400c-b934-11ee-baab-69160a9b2b48</id>
+    <title>
+      nvidia gana la batlla de la inteligencia artificial
+    </title>
+    <author><name>DotCSV</name>
+    </author>
+    <link rel="enclosure" type="audio/mpeg"
+      href="https://es.wikipedia.org/wiki/Archivo:Ikusgela-Adimen_artifiziala.webm" />
+
+    <updated>2023-08-12T22:47:00Z</updated>
+    <title type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">AT&amp;T</div>
+    </title>
+  </entry>
 </feed>
