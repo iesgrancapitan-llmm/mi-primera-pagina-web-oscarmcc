@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+<xs:simpleType name="DNITipo">
+    <xs:restriction base="xs:string">
+      <xs:pattern value="\d{8}[A-Z]?"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="MatriculaTipo">
+    <xs:restriction base="xs:string">
+      <xs:pattern value="\d{4}\s?[A-Z]{3}"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="MACDireccionTipo">
+    <xs:restriction base="xs:string">
+      <xs:pattern value="([0-9A-Fa-f]{2}[:-]){5}([0-9A-Fa-f]{2})"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="IPDireccionTipo">
+    <xs:restriction base="xs:string">
+      <xs:pattern value="^(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)$"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="NumeroDecimalTipo">
+    <xs:restriction base="xs:decimal">
+      <xs:pattern value="^\d+(\.\d{1,2})?$"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:element name="datos">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="dni" type="DNITipo"/>
+        <xs:element name="matricula" type="MatriculaTipo"/>
+        <xs:element name="direccion_MAC" type="MACDireccionTipo"/>
+        <xs:element name="direccion_IP" type="IPDireccionTipo"/>
+        <xs:element name="numero_con_dos_decimales" type="NumeroDecimalTipo"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
