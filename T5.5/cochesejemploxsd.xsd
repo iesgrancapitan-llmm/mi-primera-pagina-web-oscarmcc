@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <!-- Definición de elementos simples -->
+    <xs:element name="marca" type="xs:string"/>
+    <xs:element name="modelo" type="xs:string"/>
+    <xs:element name="anio" type="xs:integer"/>
+    <xs:element name="color" type="xs:string"/>
+    
+    <!-- Definición de atributos -->
+    <xs:attribute name="placa" type="xs:string"/>
+
+    <!-- Definición de elementos complejos -->
+    <xs:element name="coche">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="marca"/>
+                <xs:element ref="modelo"/>
+                <xs:element ref="anio"/>
+                <xs:element ref="color"/>
+            </xs:sequence>
+            <xs:attribute ref="placa"/>
+        </xs:complexType>
+    </xs:element>
+
+    <!-- Elemento raíz -->
+    <xs:element name="concesionario">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="coche" minOccurs="0" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+</xs:schema>
