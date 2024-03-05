@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"
-  xml:lang="es"
-  xml:base=" https://iesgrancapitan-llmm.github.io/mi-primera-pagina-web-oscarmcc/">
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es" xml:base="https://iesgrancapitan-llmm.github.io/mi-primera-pagina-web-oscarmcc/">
   <id>urn:uuid:7f6a400c-b934-11ee-baab-69960a9b2b48</id>
   <title>
     Noticias sobre Videojuegos
@@ -9,7 +7,7 @@
   <author>
     <name>Óscar</name>
   </author>
-  <link href=" https://iesgrancapitan-llmm.github.io/mi-primera-pagina-web-oscarmcc/" rel="self" />
+  <link rel="alternate" href="https://iesgrancapitan-llmm.github.io/mi-primera-pagina-web-oscarmcc/" />
   <updated>2023-11-19T22:50:00Z</updated>
   <category term="Videojuegos" />
   <rights>GPL</rights>
@@ -25,6 +23,7 @@
 
     <link rel="alternate"
       href="https://github.com/iesgrancapitan-llmm/mi-primera-pagina-web-oscarmcc/blob/main/HTML%20y%20CSS.pdf" />
+    <content>https://github.com/iesgrancapitan-llmm/mi-primera-pagina-web-oscarmcc/blob/main/HTML%20y%20CSS.pdf</content>
     <updated>2023-03-12T21:47:00Z</updated>
   </entry>
 
@@ -55,8 +54,10 @@
     <updated>2023-08-12T21:47:00Z</updated>
 
     <source>
+      <id>urn:uuid:9f6b400c-b934-11ee-baab-60960a9b2b48</id>
       <title>Mi primera página web</title>
       <link href="https://shiny-barnacle-gqvg9kg.pages.github.io/" />
+      <updated>2002-10-02T15:00:00.05Z</updated>
     </source>
     <content type="html">Página web</content>
   </entry>
@@ -70,11 +71,16 @@
     </author>
     <link rel="enclosure" type="audio/mpeg"
       href="https://es.wikipedia.org/wiki/Archivo:Ikusgela-Adimen_artifiziala.webm" />
-
+    <content>https://es.wikipedia.org/wiki/Archivo:Ikusgela-Adimen_artifiziala.webm</content>
     <updated>2023-08-12T22:47:00Z</updated>
-    <content type="xhtml">
-      <h1>Hola ATOM</h1>
-      <div>Esta parte del atom es para probar que puedo añadir código html</div>
-    </content>
+  </entry>
+  <entry>
+    <id>urn:uuid:8f5a400c-b934-11ee-baab-69160a9b2b48</id>
+    <title type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">AT&amp;T</div>
+    </title>
+    <author><name>Óscar</name></author>
+    <content>Texto HTML</content>
+    <updated>2023-08-12T23:47:00Z</updated>
   </entry>
 </feed>
