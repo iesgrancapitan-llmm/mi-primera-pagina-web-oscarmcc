@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <datos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datos.xsd">
     <dni>12345678Z</dni>
-    <dni>12345678z</dni>
-    <dni>12345678 Z</dni>
-    <dni>12345678-Z</dni>
+    <!-- <dni>12345678z</dni> -->
+    <!-- <dni>12345678 Z</dni> -->
+    <!-- <dni>12345678-Z</dni> -->
     
     <matricula>1234 BCD</matricula>
     <matricula>5678 ZYX</matricula>
-    <matricula>1234 ABC</matricula> <!-- Inválida -->
-    <matricula>1234 QBC</matricula> <!-- Inválida -->
-    <matricula>1234 MNÑ</matricula> <!-- Inválida -->
+<!--<matricula>1234 ABC</matricula> -->
+    <!--<matricula>1234 QBC</matricula>-->
+    <!--<matricula>1234 MNÑ</matricula>  -->
     
     <direccion_MAC>AB-CD-F1-23-45-67</direccion_MAC>
     <direccion_MAC>AB:CD:F1:23:45:67</direccion_MAC>
@@ -18,10 +18,10 @@
     
     <direccion_IP>0.0.0.0</direccion_IP>
     <direccion_IP>14.255.1.2</direccion_IP>
-    <direccion_IP>09.1.2.3</direccion_IP> <!-- Inválida -->
-    <direccion_IP>1.260.4.5</direccion_IP> <!-- Inválida -->
-    <direccion_IP>09.6.5.4</direccion_IP> <!-- Inválida -->
-    <direccion_IP>1.2.3.011</direccion_IP> <!-- Inválida -->
+    <!--<direccion_IP>09.1.2.3</direccion_IP>-->
+    <!--<direccion_IP>1.260.4.5</direccion_IP> -->
+    <!--<direccion_IP>09.6.5.4</direccion_IP>-->
+    <!--<direccion_IP>1.2.3.011</direccion_IP>-->
     
     <numero_con_dos_decimales>123.45</numero_con_dos_decimales>
     <numero_con_dos_decimales>456.789</numero_con_dos_decimales> <!-- Inválida -->

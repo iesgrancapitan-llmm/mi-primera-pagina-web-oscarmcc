@@ -4,7 +4,7 @@
     <!-- Definición de elementos simples -->
     <xs:element name="marca" type="xs:string"/>
     <xs:element name="modelo" type="xs:string"/>
-    <xs:element name="anio" type="xs:integer"/>
+    <xs:element name="anno" type="xs:integer"/>
     <xs:element name="color" type="xs:string"/>
     
     <!-- Definición de atributos -->
@@ -16,7 +16,7 @@
             <xs:sequence>
                 <xs:element ref="marca"/>
                 <xs:element ref="modelo"/>
-                <xs:element ref="anio"/>
+                <xs:element ref="anno"/>
                 <xs:element ref="color"/>
             </xs:sequence>
             <xs:attribute ref="placa"/>

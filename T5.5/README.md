@@ -2,9 +2,9 @@
 
 1. **Indica con una X las afirmaciones verdaderas:**
 
-- [X] Los DTDs son más ricos y poderosos que los XML Schemas
+- [ ] Los DTDs son más ricos y poderosos que los XML Schemas
 
-- [X] Los DTDs están escritos de acuerdo a la sintaxis XML
+- [ ] Los DTDs están escritos de acuerdo a la sintaxis XML
 
 - [X] XML Schemas soportan tipos de datos
 
@@ -26,7 +26,7 @@
   ```
 - espacio de nombres XMLSchema
   ```
-  http://www.w3.org/2001/XMLSchema
+  xmlns:xs="http://www.w3.org/2001/XMLSchema"
   ```
 
 ```xml
@@ -103,10 +103,10 @@
 ```
 
 7. Con respecto a la validación con XSD indica:
-- Un esquema es un documento *XML* al que se le coloca la extensión **.xsd** . Al ser un archivo XML tiene la estructura habitual de todo documento XML con la obligación de que el elemento **raíz** se llame **schema** .
+- Un esquema es un documento *XML* al que se le coloca la extensión **.xsd** . Al ser un archivo XML tiene la estructura habitual de todo documento XML con la obligación de que el elemento **raíz** se llame **xsd:schema** .
 - Etiqueta que identifica la raíz de un documento XML Schema: 
 ~~~
-<schema>
+<xs:schema>
 ~~~
 - Etiquetas que identifican las partes de un esquema:
   - Elementos, definidos con etiquetas **xs:element**. Para indicar los elementos permitidos en los documentos que sigan el esquema.
