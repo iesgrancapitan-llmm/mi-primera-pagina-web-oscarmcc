@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="planetas.xsl" type="text/xsl"?>
+<planetas>
+    <solar_sistema>
+        <planeta description="Primer planeta del sistema solar" distance="57.9">Mercurio</planeta>
+        <planeta description="Segundo planeta del sistema solar" distance="108.2">Venus</planeta>
+        <planeta description="Tercer planeta del sistema solar" distance="149.6">Tierra</planeta>
+        <planeta description="Cuarto planeta del sistema solar" distance="227.9">Marte</planeta>
+        <planeta description="Quinto planeta del sistema solar" distance="778.9">Júpiter</planeta>
+        <planeta description="Sexto planeta del sistema solar" distance="1429.4">Saturno</planeta>
+        <planeta description="Septimo planeta del sistema solar" distance="2870.9">Urano</planeta>
+        <planeta description="Octavo planeta del sistema solar" distance="4498.3">Neptuno</planeta>
+        <planeta description="Noveno planeta del sistema solar" distance="5906.4">Plutón</planeta>
+    </solar_sistema>
+    <extrasolar>
+        <planeta>Kepler-22b</planeta>
+        <planeta>HD 209458 b</planeta>
+        <planeta>TRAPPIST-1e</planeta>
+        <planeta>Gliese 581g</planeta>
+        <planeta>WASP-12b</planeta>
+        <planeta>TOI-700 d</planeta>
+    </extrasolar>
+</planetas>

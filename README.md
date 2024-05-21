@@ -47,3 +47,15 @@
 
 
 ## Sexto Tema
+
+[T6 examen](T6.examen/README.md)
+
+[T6.1](T6.1/README.md)
+
+[T6.2](T6.2/README.md)
+
+[T6.3](T6.3/README.md)
+
+[T6.4](T6.4/README.md)
+
+[T6.5](T6.5/README.md)
