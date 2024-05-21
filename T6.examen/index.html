@@ -1,90 +1,75 @@
 <html><head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>XSL Artistas</title>
+    <meta name="author" content="Óscar Martín-Castaño Carrillo">
+    <title>Martín-Castaño Carrillo, Óscar</title>
     <style>
-                        h1 {
-                            background-color: green;
-                        }
-                        table {
-                            border: 2px solid black;
-                        }
-                        th, td{
-                            border: 2px solid black;
-                        }
-                    </style>
-    </head>
-    <body>
-    <h1>Martín-Castaño Carrillo, Óscar</h1>
+        h1 {
+            background-color: green;
+        }
+
+        table {
+            border: solid 1px black;
+            padding: 5px;
+            text-align: center;
+        }
+
+        tr, th, td {
+            border: solid 1px black;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Artistas</h1>
     <ul>
-    <li>Diego Velázquez(1599-1660) </li>
-    <li>Michelangelo Caravaggio(1571-) </li>
-    <li>Herrada de Landsberg(1125-1195) </li>
-    <li>Francisco de Goya(1746-1828) </li>
+        <li>Herrada de Landsberg (1125 - 1195)</li>
+        <li>Michelangelo Caravaggio (1571 - ---)</li>
+        <li>Diego Velázquez (1599 - 1660)</li>
+        <li>Francisco de Goya (1746 - 1828)</li>
     </ul>
-    <table border="1">
-    <tbody><tr>
-    <th>Nombre</th>
-    <th>Pais</th>
-    <th>Enlace</th>
-    </tr>
-    <tr>
-    <td>Diego Velázquez</td>
-    <td>España</td>
-    <td>https://es.wikipedia.org/wiki/Diego_Vel%C3%A1zquez</td>
-    </tr>
-    <tr>
-    <td>Michelangelo Caravaggio</td>
-    <td>Italia</td>
-    <td>https://es.wikipedia.org/wiki/Caravaggio</td>
-    </tr>
-    <tr>
-    <td>Herrada de Landsberg</td>
-    <td>Alsacia</td>
-    <td>https://es.wikipedia.org/wiki/Herrada_de_Landsberg</td>
-    </tr>
-    <tr>
-    <td>Francisco de Goya</td>
-    <td>España</td>
-    <td>https://es.wikipedia.org/wiki/Francisco_de_Goya</td>
-    </tr>
-    </tbody></table>
-    
-    <!-- Code injected by live-server -->
-<script>
-	// <![CDATA[  <-- For SVG support
-	if ('WebSocket' in window) {
-		(function () {
-			function refreshCSS() {
-				var sheets = [].slice.call(document.getElementsByTagName("link"));
-				var head = document.getElementsByTagName("head")[0];
-				for (var i = 0; i < sheets.length; ++i) {
-					var elem = sheets[i];
-					var parent = elem.parentElement || head;
-					parent.removeChild(elem);
-					var rel = elem.rel;
-					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
-						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
-						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
-					}
-					parent.appendChild(elem);
-				}
-			}
-			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
-			var address = protocol + window.location.host + window.location.pathname + '/ws';
-			var socket = new WebSocket(address);
-			socket.onmessage = function (msg) {
-				if (msg.data == 'reload') window.location.reload();
-				else if (msg.data == 'refreshcss') refreshCSS();
-			};
-			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
-				console.log('Live reload enabled.');
-				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
-			}
-		})();
-	}
-	else {
-		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
-	}
-	// ]]>
-</script>
+    <table>
+        <tbody>
+            <tr>
+                <th>Nombre</th>
+                <th>País</th>
+                <th>Enlace</th>
+            </tr>
+            <tr>
+                <td>Diego Velázquez</td>
+                <td>España</td>
+                <td>
+                    <a href="https://es.wikipedia.org/wiki/Diego_Vel%C3%A1zquez">
+                    Página Wiki
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td>Michelangelo Caravaggio</td>
+                <td>Italia</td>
+                <td>
+                    <a href="https://es.wikipedia.org/wiki/Caravaggio">
+                    Página Wiki
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td>Herrada de Landsberg</td>
+                <td>Alsacia</td>
+                <td>
+                    <a href="https://es.wikipedia.org/wiki/Herrada_de_Landsberg">
+                    Página Wiki
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td>Francisco de Goya</td>
+                <td>España</td>
+                <td>
+                    <a href="https://es.wikipedia.org/wiki/Francisco_de_Goya">
+                    Página Wiki
+                    </a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
 </body></html>

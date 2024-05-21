@@ -3,50 +3,61 @@
     <xsl:template match="/">
         <html>
             <head>
-                <title>Martín-Castaño Carrillo Óscar</title>
-            </head>
-            <body>
+                <meta name="author" content="Óscar Martín-Castaño Carrillo"/>
+                <title>Martín-Castaño Carrillo, Óscar</title>
                 <style>
-                    body{
+                    h1 {
                         background-color: green;
                     }
 
-                    table{
-                        border: 1px solid black;
+                    table {
+                        border: solid 1px black;
+                        padding: 5px;
+                        text-align: center;
                     }
 
-                    td, th{
-                        border: 1px solid black;
+                    tr, th, td {
+                        border: solid 1px black;
+                        padding: 10px;
                     }
                 </style>
-                <h1>Examen XSLT</h1>
-                <ul>
-                <xsl:for-each select="artistas/artista">
-                    <xsl:sort select="nacimiento" data-type="number"/>
-                    <li><xsl:value-of select="nombre"/> (<xsl:value-of select="nacimiento"/>- 
-                        <xsl:choose>
-                            <xsl:when test="fallecimiento">
-                                <xsl:value-of select="fallecimiento"/>
-                            </xsl:when>
-                            <xsl:otherwise>
-                                <xsl:text> ---- </xsl:text>
-                            </xsl:otherwise>
-                        </xsl:choose>
-                    )</li>
-                </xsl:for-each>
-                </ul>   
-                <br/>
+            </head>
+            <body>
+                <h1>Artistas</h1>
+                <ol>
+                    <xsl:for-each select="artistas/artista">
+                    <xsl:sort select="nacimiento" order="ascending"/>
+                        <li>
+                            <xsl:value-of select="nombre"/>
+                            <xsl:text> (</xsl:text>
+                            <xsl:value-of select="nacimiento"/>
+                            <xsl:text> - </xsl:text>
+                            <xsl:choose>
+                                <xsl:when test="fallecimiento"><xsl:value-of select="fallecimiento"/></xsl:when>
+                                <xsl:otherwise>---</xsl:otherwise>
+                            </xsl:choose>
+                            <xsl:text>)</xsl:text>
+                        </li>
+                    </xsl:for-each>
+                </ol>
                 <table>
                     <tr>
                         <th>Nombre</th>
-                        <th>Pais</th>
+                        <th>País</th>
                         <th>Enlace</th>
                     </tr>
                     <xsl:for-each select="artistas/artista">
-                        <tr>
+                    <tr>
                             <td><xsl:value-of select="nombre"/></td>
                             <td><xsl:value-of select="pais"/></td>
-                            <td><a><xsl:attribute name="href"><xsl:value-of select="@wikipedia"/></xsl:attribute><xsl:value-of select="@wikipedia"/></a></td>
+                            <td>
+                                <a>
+                                    <xsl:attribute name="href">
+                                        <xsl:value-of select="@wikipedia"/>
+                                    </xsl:attribute>
+                                    Página Wiki
+                                </a>
+                            </td>
                         </tr>
                     </xsl:for-each>
                 </table>
